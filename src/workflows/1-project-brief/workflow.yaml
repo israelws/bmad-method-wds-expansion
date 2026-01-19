@@ -1,9 +1,10 @@
-
-name: project-brief
+---
+name: Product Brief Workflow
 description: Establish project context - foundation for all design work
 web_bundle: true
+---
 # WDS Phase 1: Project Brief
-
+name: project-brief
 author: "Whiteport Design Studio"
 phase: 1
 
@@ -39,3 +40,4 @@ output_file: "{output_folder}/A-Product-Brief/project-brief.md"
 primary_agent: "saga-analyst"
 
 standalone: true
+web_bundle: false

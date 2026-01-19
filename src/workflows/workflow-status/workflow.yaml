@@ -1,7 +1,11 @@
-name: wds-workflow-status
+---
+name: WDS Workflow Status
 description: Check WDS project progress - answers 'what should I do now?' for any agent
 web_bundle: true
-
+---
+# WDS Workflow Status - Progress Checker
+name: wds-workflow-status
+author: "Whiteport Design Studio"
 
 # Critical variables from config
 config_source: "{project-root}/{bmad_folder}/wds/config.yaml"
@@ -18,3 +22,4 @@ instructions: "{installed_path}/instructions.md"
 default_output_file: "{output_folder}/wds-workflow-status.yaml"
 
 standalone: true
+web_bundle: false

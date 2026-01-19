@@ -1,6 +1,11 @@
+---
 name: WDS Workflow Init
 description: Initialize a WDS design project by selecting phases based on project needs
 web_bundle: true
+---
+# WDS Workflow Init - Project Setup
+name: wds-workflow-init
+author: "Whiteport Design Studio"
 
 # Critical variables from config
 config_source: "{project-root}/{bmad_folder}/wds/config.yaml"
@@ -27,3 +32,4 @@ path_files: "{project-root}/{bmad_folder}/wds/workflows/paths/"
 default_output_file: "{output_folder}/wds-workflow-status.yaml"
 
 standalone: true
+web_bundle: false
