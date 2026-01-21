@@ -74,10 +74,13 @@ Before uploading:
 - Simplify complex nesting
 - Use Flexbox/Grid layouts
 
-**2. Include Object IDs**
+**2. Include Object IDs for Figma Layer Naming**
 ```html
-<button data-object-id="btn-login-submit">Log In</button>
+<!-- For Figma layer naming, use aria-label attributes -->
+<button aria-label="btn-login-submit" class="btn-primary">Log In</button>
 ```
+
+**Note:** The html.to.design MCP server and browser extension use `aria-label` attributes to name Figma layers. For production code, these should be temporary. See: [Prepare for Figma Export](prepare-for-figma-export.md)
 
 **3. Use Standard CSS**
 - Avoid complex positioning
@@ -122,9 +125,13 @@ Options:
 ```
 1. Download Figma file
 2. Open in Figma
-3. Manually add Object IDs to layers
+3. Verify layer names match Object IDs (from aria-label attributes)
 4. Begin refinement
 ```
+
+**For Multiple Viewport Capture:**
+
+The browser extension method allows capturing mobile, tablet, and desktop simultaneously. See: [Prepare for Figma Export - Browser Extension Method](prepare-for-figma-export.md#variation-b-browser-extension-export-multiple-viewports)
 
 ---
 

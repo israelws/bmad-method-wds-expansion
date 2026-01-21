@@ -107,7 +107,11 @@ If the prototype looks functional but not visually appealing (design system inco
 
 This iterative refinement enables you to build the design system organically as you create prototypes, rather than requiring a complete design system upfront.
 
-See: [Figma Integration](../src/workflows/5-design-system/figma-integration/prototype-to-figma-workflow.md)
+**Figma Export Methods:**
+- **MCP Server (Automated):** Single viewport, fully automated, no file modifications
+- **Browser Extension (Manual):** Multiple viewports (mobile/tablet/desktop), requires temporary aria-label injection
+
+See: [Prepare for Figma Export](../tools/prepare-for-figma-export.md) for aria-label workflow details
 
 ### 4E: PRD Update
 

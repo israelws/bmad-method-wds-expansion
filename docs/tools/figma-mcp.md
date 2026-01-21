@@ -175,9 +175,11 @@ Freya automatically:
 - No manual commands needed
 
 **2. Maintain Object ID Traceability**
-- All components have Object IDs in HTML
-- MCP preserves Object IDs in Figma layer names
+- All components have Object IDs in specifications
+- For Figma export, use `aria-label` attributes to name Figma layers
+- MCP server uses `aria-label` values for layer naming
 - Enables tracking from spec → prototype → Figma → design system
+- See: [Prepare for Figma Export](prepare-for-figma-export.md) for aria-label injection workflow
 
 **3. Follow Page Naming Convention**
 - Pages match WDS specification structure
@@ -196,10 +198,11 @@ Freya automatically:
 - Inject only what needs refinement
 - Avoid unnecessary extraction
 
-**2. Don't Skip Object IDs**
-- Always include Object IDs in HTML
-- Required for traceability
-- Enables automated mapping
+**2. Don't Skip Object IDs for Figma Export**
+- Use `aria-label` attributes temporarily for Figma layer naming
+- Required for traceability in Figma
+- Enables automated mapping between specs and Figma layers
+- See: [Prepare for Figma Export](prepare-for-figma-export.md)
 
 **3. Don't Manually Upload**
 - Use MCP server, not manual upload
