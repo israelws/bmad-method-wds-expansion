@@ -201,6 +201,27 @@ Content:
 
 ---
 
+## Open Questions
+
+<!--
+  Auto-populate questions based on page characteristics.
+  Reference: instructions/open-questions.instructions.md
+
+  Check for:
+  - Responsive breakpoints
+  - Loading/Error/Empty states
+  - SEO (if public)
+  - Accessibility
+  - User permissions
+  - Time-sensitive behaviors
+  - Form validation
+  - Navigation/back behavior
+-->
+
+_No open questions at this time._
+
+---
+
 ## Next Steps
 
 To complete this page specification:
@@ -211,7 +232,8 @@ To complete this page specification:
 4. **Specify objects**: Define all interactive elements with Object IDs
 5. **Link components**: Connect to design system components
 6. **Document states**: Define loading, error, success, empty states
-7. **Generate prototype**: Create interactive HTML preview
+7. **Review open-questions.instructions.md**: Add relevant questions to Open Questions section
+8. **Generate prototype**: Create interactive HTML preview
 
 ---
 
@@ -302,7 +324,7 @@ Based on user choice:
 ## KEY PRINCIPLES
 
 ### ✅ **Navigation is Critical**
-- Appears twice (top & after sketch)
+- Appears three times (above sketch, below sketch, document bottom)
 - Links to previous/next pages
 - Creates navigable flow
 - Essential for comprehension
@@ -318,6 +340,12 @@ Based on user choice:
 - Scenario placement
 - Page number assigned
 - Flow established
+
+### ✅ **Open Questions Ready**
+- Section included from start
+- Reference `open-questions.instructions.md` during spec creation
+- Auto-populate based on page characteristics
+- Ensures no edge cases are missed
 
 ---
 

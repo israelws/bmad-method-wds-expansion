@@ -1,9 +1,23 @@
+<!--
+  NAVIGATION BEST PRACTICE: Navigation links appear in THREE places:
+  1. Above the sketch (top)
+  2. Below the sketch (still in header area)
+  3. At document bottom
+  This is intentional for long specifications - users should not need to
+  scroll the entire document to navigate between pages.
+-->
+
 ### {page-number}-{page-name}
 
 **Previous Step:** ← [{previous-page-name}]({previous-page-path})
 **Next Step:** → [{next-page-name}]({next-page-path})
 
 ![{Page Name}](Sketches/{page-number}-{page-name}.jpg)
+
+**Previous Step:** ← [{previous-page-name}]({previous-page-path})
+**Next Step:** → [{next-page-name}]({next-page-path})
+
+---
 
 # {page-number}-{page-name}
 
@@ -153,12 +167,44 @@ Include these micro-instructions when applicable:
 | Multiple breakpoints | → [responsive.instructions.md](instructions/responsive.instructions.md) |
 | Final review | → [accessibility.instructions.md](instructions/accessibility.instructions.md) |
 | Multiple sketches | → [storyboard-specification.template.md](storyboard-specification.template.md) |
+| **Always (spec creation/audit)** | → [open-questions.instructions.md](instructions/open-questions.instructions.md) |
 
 ---
 
 ## Technical Notes
 
 {Any constraints, performance requirements, or implementation notes}
+
+---
+
+## Open Questions
+
+<!--
+  This section captures decisions needed before development.
+  During spec creation or audits, auto-populate questions based on:
+  → instructions/open-questions.instructions.md
+
+  Categories to check:
+  - Responsive breakpoints (if multiple viewports)
+  - Loading/Error/Empty states (if API data)
+  - SEO meta content (if public page)
+  - Accessibility requirements
+  - User permissions/roles
+  - Time-sensitive behaviors
+  - Form validation rules
+  - Navigation/back behavior
+-->
+
+_No open questions at this time._
+
+<!-- When questions exist, use this format:
+| # | Question | Context | Status |
+|---|----------|---------|--------|
+| 1 | {What needs to be decided?} | {Why it matters} | 🔴 Open |
+| 2 | {Question} | {Context} | 🟢 Resolved: {answer} |
+
+**Status Legend:** 🔴 Open | 🟡 In Discussion | 🟢 Resolved
+-->
 
 ---
 

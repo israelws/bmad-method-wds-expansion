@@ -95,6 +95,7 @@ The audit follows a hierarchical approach from formatting → scenario → page 
 - [ ] No missing required sections
 - [ ] No duplicate sections
 - [ ] Logical flow maintained
+- [ ] **Open Questions section present** (even if empty)
 
 **Spacing & Formatting:**
 - [ ] Consistent spacing between sections
@@ -153,6 +154,29 @@ The audit follows a hierarchical approach from formatting → scenario → page 
    - SE: "Skicka"
 ```
 
+### Navigation Best Practice
+
+**Navigation Placement (Required for Long Specs):**
+Long specifications must have navigation links in THREE locations so users can navigate without scrolling:
+```markdown
+✅ Above the sketch:
+**Previous Step:** ← [3.1 Page Name](path)
+**Next Step:** → [3.3 Page Name](path)
+
+![Page Sketch](Sketches/page-sketch.jpg)
+
+✅ Below the sketch (still in header area):
+**Previous Step:** ← [3.1 Page Name](path)
+**Next Step:** → [3.3 Page Name](path)
+
+... specification content ...
+
+✅ Bottom of document:
+**Previous Step:** ← [3.1 Page Name](path)
+**Next Step:** → [3.3 Page Name](path)
+```
+This is especially important for storyboards and multi-state specifications where sketches and content can be very long.
+
 ### Output
 - List of formatting violations by type
 - Specific line numbers or sections with issues
@@ -201,7 +225,16 @@ The audit follows a hierarchical approach from formatting → scenario → page 
 
 **Purpose:** Validate page structure, organization, and visual alignment
 
-### A. Structure & Organization
+### A. Template Check
+
+**Determine which template applies:**
+- [ ] Single sketch → uses page-specification.template.md
+- [ ] Multiple sketches → uses storyboard extension
+- [ ] If storyboard: State Flow Overview present with ASCII diagram
+- [ ] If storyboard: State 1 fully documented as baseline
+- [ ] If storyboard: States 2+ document only changes
+
+### B. Structure & Organization
 
 **Checklist:**
 - [ ] Page purpose clearly stated
@@ -211,6 +244,7 @@ The audit follows a hierarchical approach from formatting → scenario → page 
 - [ ] Section purposes defined
 - [ ] Page layout logical and flows well
 - [ ] Layout structure diagram present
+- [ ] Navigation present (Previous/Next links: above sketch, below sketch, and at document bottom)
 
 **Structural Area Labels:**
 - [ ] Page container (`{page-name}-page`)
@@ -220,7 +254,7 @@ The audit follows a hierarchical approach from formatting → scenario → page 
 - [ ] Section containers (`{page-name}-{section}-section`)
 - [ ] Section header bars if visible (`{page-name}-{section}-header-bar`)
 
-### B. Visual-Spec Alignment
+### C. Visual-Spec Alignment
 
 **Checklist:**
 - [ ] Sketch/visualization exists in Sketches/ folder
@@ -235,10 +269,10 @@ The audit follows a hierarchical approach from formatting → scenario → page 
 - Objects in spec but missing from sketch → Update sketch or remove from spec
 - Visual elements don't match description → Align sketch and spec
 
-### C. Area Label Coverage
+### D. Area Label Coverage
 
 **Checklist:**
-- [ ] All interactive elements have Area Labels
+- [ ] All interactive elements have Area Labels (OBJECT IDs)
 - [ ] Labels follow naming convention (`{page}-{section}-{element}`)
 - [ ] Labels are unique within page
 - [ ] ARIA labels match Area Labels
@@ -525,6 +559,7 @@ For rapid validation during active design work:
 - [ ] Form labels present
 - [ ] Error messages defined
 - [ ] Sketch exists and linked
+- [ ] **Open Questions section present** (populate using open-questions.instructions.md)
 
 ---
 
@@ -549,6 +584,7 @@ For comprehensive review before development handoff:
 - [ ] Design system integration complete
 - [ ] Shared features documented
 - [ ] All content defined (no placeholders)
+- [ ] Open Questions section reviewed (all resolved or acceptable for dev handoff)
 - [ ] Accessibility requirements complete
 - [ ] WCAG compliance documented
 - [ ] API endpoints defined
@@ -599,10 +635,62 @@ Add to Freya's menu:
 
 ## Related Resources
 
+### Templates
+- **Page Specification:** `./templates/page-specification.template.md`
+- **Storyboard Extension:** `./templates/storyboard-specification.template.md` (for multi-sketch pages)
+
+### Micro-Instructions (conditional sections)
+- **Open Questions (always):** `./templates/instructions/open-questions.instructions.md` ← Auto-populate questions
+- **SEO/Social:** `./templates/instructions/meta-content.instructions.md`
+- **Forms:** `./templates/instructions/form-validation.instructions.md`
+- **API Data:** `./templates/instructions/data-api.instructions.md`
+- **Responsive:** `./templates/instructions/responsive.instructions.md`
+- **Accessibility:** `./templates/instructions/accessibility.instructions.md`
+- **Accessibility Audit:** `./templates/instructions/accessibility-audit.workflow.md`
+
+### Guides
 - **Specification Quality Guide:** `../../data/agent-guides/freya/specification-quality.md`
-- **Page Specification Template:** `./templates/page-specification.template.md`
-- **Area Label Documentation:** (Project-specific)
 - **Accessibility Guidelines:** WCAG 2.1 Level AA
+
+---
+
+## Template Router
+
+**Before auditing, determine which template applies:**
+
+| Condition | Template |
+|-----------|----------|
+| Single sketch | page-specification.template.md |
+| Multiple sketches (states, flows) | page-specification + storyboard extension |
+
+**Check for required micro-instructions:**
+
+| Page Has | Include |
+|----------|---------|
+| **All pages** | **open-questions.instructions.md** (auto-populate questions) |
+| Public visibility | meta-content.instructions.md |
+| Forms/inputs | form-validation.instructions.md |
+| API data | data-api.instructions.md |
+| Multiple breakpoints | responsive.instructions.md |
+
+---
+
+## Object Hierarchy Check
+
+Verify specs follow the hierarchy:
+
+```
+Page
+└── Section (OBJECT ID: page-section)
+    ├── Object (OBJECT ID: page-object)
+    └── Group/Container (OBJECT ID: page-group)
+        └── Nested Object (OBJECT ID: page-group-object)
+```
+
+**Storyboard pages also need:**
+- State Flow Overview (ASCII diagram + state table)
+- State 1 fully documented (baseline)
+- States 2+ document only changes (reuse OBJECT IDs)
 
 ---
 
