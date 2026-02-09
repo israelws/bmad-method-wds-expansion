@@ -15,6 +15,12 @@ requiredModules: [core]
 ## bmad_folder
 ## install_user_docs
 ## kb_install
+## project_knowledge
+
+project_knowledge:
+  prompt: "Where should long-term project knowledge be stored? (docs, research, references)"
+  default: "docs"
+  result: "{project-root}/{value}"
 
 
 project_type:
@@ -30,6 +36,11 @@ project_type:
       label: "Website - Multi-page website or portal"
     - value: "other"
       label: "Other - Custom or specialized project"
+
+design_artifacts:
+  prompt: "Where should design system output be created? (Trigger Map, Scenarios, Testing, etc...)"
+  default: "design-artifacts"
+  result: "{project-root}/{value}"
 
 design_system_mode:
   prompt: "How will you manage design system components?"
@@ -109,3 +120,20 @@ design_experience:
       label: "Intermediate - Familiar with design concepts, balanced approach"
     - value: "expert"
       label: "Expert - Experienced designer, be direct and efficient"
+
+# Directories to create during installation (declarative, no code execution)
+directories:
+  - "{design_artifacts}"
+  - "{project_knowledge}"
+
+# WDS folder structure to create within design_artifacts directory
+wds_folders:
+  - A-Product-Brief
+  - B-Trigger-Map
+  - C-Platform-Requirements
+  - C-Scenarios
+  - D-Design-System
+  - E-PRD
+  - E-PRD/Design-Deliveries
+  - F-Testing
+  - G-Product-Development
