@@ -39,7 +39,7 @@ Mårten developed WDS to solve this problem - a methodology where design thinkin
 
 ## Before You Start
 
-**[→ Getting Started Guide](00-getting-started/overview.md)**
+**[→ Getting Started Guide](00-getting-started-overview.md)**
 
 Review prerequisites, choose your learning path, and get support:
 
@@ -74,14 +74,14 @@ Each module contains:
 
 | Module | Title | Agent | Time |
 |--------|-------|-------|------|
-| 01 | [Why WDS Matters](module-01-why-wds-matters/module-01-overview.md) | — | 30 min |
-| 02 | [Installation & Setup](module-02-installation-setup/module-02-overview.md) | — | 45 min |
+| 01 | [Why WDS Matters](../module-01-why-wds-matters/module-01-overview.md) | — | 30 min |
+| 02 | [Installation & Setup](../module-02-installation-setup/module-02-overview.md) | — | 45 min |
 
 ### Alignment (Module 3) — Optional
 
 | Module | Title | Agent | Time |
 |--------|-------|-------|------|
-| 03 | [Alignment & Signoff](module-03-alignment-signoff/module-03-overview.md) | Saga | 30 min |
+| 03 | [Alignment & Signoff](../module-03-alignment-signoff/module-03-overview.md) | Saga | 30 min |
 
 *Skip if doing it yourself — go straight to Project Brief*
 
@@ -89,31 +89,31 @@ Each module contains:
 
 | Module | Title | Agent | Time |
 |--------|-------|-------|------|
-| 04 | [Project Brief](module-04-product-brief/module-04-overview.md) | Saga | 60 min |
-| 05 | [Trigger Mapping](module-05-trigger-mapping/module-05-overview.md) | Saga | 60 min |
-| 06 | [Platform Requirements](module-06-platform-requirements/module-06-platform-requirements-overview.md) | Saga | 30 min |
+| 04 | [Project Brief](../module-04-product-brief/module-04-overview.md) | Saga | 60 min |
+| 05 | [Trigger Mapping](../module-05-trigger-mapping/module-05-overview.md) | Saga | 60 min |
+| 06 | [Platform Requirements](../module-06-platform-requirements/module-06-platform-requirements-overview.md) | Saga | 30 min |
 
 ### UX & Visual Design Phase (Modules 7-15) — Agent: Freya
 
 | Module | Title | Agent | Time |
 |--------|-------|-------|------|
-| 07 | [Design Phase Introduction](module-07-design-phase/module-07-design-phase-overview.md) | Freya | 15 min |
-| 08 | [Outline Scenarios](module-08-outline-scenarios/module-08-outline-scenarios-overview.md) | Freya | 30 min |
-| 09 | [Conceptual Sketching](module-09-conceptual-sketching/module-09-conceptual-sketching-overview.md) | Freya | 60 min |
-| 10 | [Storyboarding](module-10-storyboarding/module-10-storyboarding-overview.md) | Freya | 45 min |
-| 11 | [Conceptual Specifications](module-11-conceptual-specifications/module-11-conceptual-specifications-overview.md) | Freya | 60 min |
-| 12 | [Functional Interface Components](module-12-functional-interface-components/module-12-functional-interface-components-overview.md) | Freya | 45 min |
-| 13 | [Visual Design](module-13-visual-design/module-13-visual-design-overview.md) | Freya | 60 min |
-| 14 | [Design System Modes](module-14-design-system-modes/module-14-design-system-modes-overview.md) | Freya | 30 min |
-| 15 | [Design Delivery](module-15-design-delivery/module-15-design-delivery-overview.md) | Freya | 45 min |
+| 07 | [Design Phase Introduction](../module-07-design-phase/module-07-design-phase-overview.md) | Freya | 15 min |
+| 08 | [Outline Scenarios](../module-08-outline-scenarios/module-08-outline-scenarios-overview.md) | Freya | 30 min |
+| 09 | [Conceptual Sketching](../module-09-conceptual-sketching/module-09-conceptual-sketching-overview.md) | Freya | 60 min |
+| 10 | [Storyboarding](../module-10-storyboarding/module-10-storyboarding-overview.md) | Freya | 45 min |
+| 11 | [Conceptual Specifications](../module-11-conceptual-specifications/module-11-conceptual-specifications-overview.md) | Freya | 60 min |
+| 12 | [Functional Interface Components](../module-12-functional-interface-components/module-12-functional-interface-components-overview.md) | Freya | 45 min |
+| 13 | [Visual Design](../module-13-visual-design/module-13-visual-design-overview.md) | Freya | 60 min |
+| 14 | [Design System Modes](../module-14-design-system-modes/module-14-design-system-modes-overview.md) | Freya | 30 min |
+| 15 | [Design Delivery](../module-15-design-delivery/module-15-design-delivery-overview.md) | Freya | 45 min |
 
 ### Implementation Phase (Modules 16-18) — Agent: Idunn
 
 | Module | Title | Agent | Time |
 |--------|-------|-------|------|
-| 16 | [Agentic Development](module-16-agentic-development/module-16-agentic-development-overview.md) | Idunn | 60 min |
-| 17 | [Testing](module-17-testing/module-17-testing-overview.md) | Idunn | 45 min |
-| 18 | [Product Evolution](module-18-product-evolution/module-18-product-evolution-overview.md) | Idunn | 30 min |
+| 16 | [Agentic Development](../module-16-agentic-development/module-16-agentic-development-overview.md) | Idunn | 60 min |
+| 17 | [Testing](../module-17-testing/module-17-testing-overview.md) | Idunn | 45 min |
+| 18 | [Product Evolution](../module-18-product-evolution/module-18-product-evolution-overview.md) | Idunn | 30 min |
 
 ---
 
@@ -192,8 +192,8 @@ Every module follows the same pattern:
 
 Once you've completed the modules:
 
-1. **[Workflows Guide](../workflows/WDS-WORKFLOWS-GUIDE.md)** - Reference documentation
-2. **[Quick Start](../getting-started/quick-start.md)** - Try WDS with agent
+1. **[Workflows Guide](../../wds-workflows-guide.md)** - Reference documentation
+2. **[Quick Start](../../quick-start/00-start-here.md)** - Try WDS with agent
 3. **[Community](https://discord.gg/whiteport)** - Get help and share your work
 
 ---
@@ -222,7 +222,7 @@ Once you've completed the modules:
 
 Ten hours of learning. A lifetime of being indispensable.
 
-**[Start with Module 01: Why WDS Matters →](module-01-why-wds-matters/module-01-overview.md)**
+**[Start with Module 01: Why WDS Matters →](../module-01-why-wds-matters/module-01-overview.md)**
 
 ---
 
