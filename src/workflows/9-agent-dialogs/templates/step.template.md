@@ -64,27 +64,47 @@ For **each Object ID**, read the spec section and implement:
 
 ## Verification Process
 
-After implementation, verify each Object ID against the spec:
+After implementation, self-verify using Puppeteer before presenting to the user.
+
+See: [Inline Testing Guide](../../4-ux-design/agentic-development/guides/INLINE-TESTING-GUIDE.md) for full methodology.
 
 ```
 For each Object ID:
-  1. Find element: document.querySelector('[data-object-id="{id}"]')
-  2. Open spec at the line reference
-  3. Confirm ALL properties match:
-     - Translation keys
-     - Format/styling
-     - Visibility conditions
-     - Accessibility attributes
+  1. Open page in browser (Puppeteer)
+  2. Find element: document.querySelector('[data-object-id="{id}"]')
+  3. Verify measurable properties against spec:
+     - Text content matches translation keys
+     - Computed styles match spec values (colors, sizes, spacing)
+     - Dimensions meet requirements (touch targets >= 44px)
+     - Visibility conditions work correctly
+     - State transitions behave as specified
+     - Accessibility attributes present
+  4. Narrate each finding with ✓/✗ (actual vs expected)
+  5. Fix any failures before presenting to user
 ```
+
+**If modifying existing features:** Capture baseline state with Puppeteer before implementation. Compare after to confirm only intended changes.
 
 ---
 
 ## Acceptance Criteria
 
+### Agent-Verifiable (Puppeteer)
+
 - [ ] All Object IDs present as `data-object-id` attributes
-- [ ] Each element matches its specification section **exactly**
+- [ ] Each element's text content matches specification
+- [ ] Each element's styling matches specification values
+- [ ] Touch targets meet minimum 44px requirement
+- [ ] State-specific visibility/behavior works correctly
 - [ ] Translations work (SE/EN) using Translation Keys from spec
 - [ ] No TypeScript errors
+- [ ] No console errors
+
+### User-Evaluable (Qualitative)
+
+- [ ] Interaction flow feels natural
+- [ ] Visual hierarchy is clear
+- [ ] Section is consistent with overall design
 
 ---
 

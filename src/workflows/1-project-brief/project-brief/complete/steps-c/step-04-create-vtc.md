@@ -93,7 +93,7 @@ VTC is saved but NOT yet added to brief document.
 - How value and transformation connect
 - Key insights about user journey
 
-**Then:** Mark Step 4 complete in `dialog/README.md` progress tracker
+**Then:** Mark Step 4 complete in `dialog/progress-tracker.md` progress tracker
 
 ## Next Step
 

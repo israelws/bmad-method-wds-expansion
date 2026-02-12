@@ -101,7 +101,7 @@ This VTC provides quick strategic reference and will inform all design decisions
 - Value/Transformation/Cost mapping
 - Strategic insights from framework
 
-**Then:** Mark Step 11 complete in `dialog/README.md` progress tracker
+**Then:** Mark Step 11 complete in `dialog/progress-tracker.md` progress tracker
 
 ## Next Step
 

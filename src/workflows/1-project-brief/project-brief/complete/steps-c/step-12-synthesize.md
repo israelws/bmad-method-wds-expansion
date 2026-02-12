@@ -142,7 +142,7 @@ Present a cohesive synthesis of everything captured, get final confirmation, and
 
 **Finalize agent dialogs:**
 
-**In `dialog/README.md`:**
+**In `dialog/progress-tracker.md`:**
 - Mark ALL steps complete
 - Update status to `complete`
 - Add completion timestamp

@@ -66,7 +66,7 @@ The dialog should capture:
 - Final positioning statement (with all components)
 - Strategic rationale
 
-**Then:** Mark Step 3 complete in `dialog/README.md` progress tracker
+**Then:** Mark Step 3 complete in `dialog/progress-tracker.md` progress tracker
 
 ---
 

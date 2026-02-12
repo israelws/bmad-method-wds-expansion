@@ -135,7 +135,7 @@ Before proceeding:
 - Brand personality decisions
 - Communication style rationale
 
-**Then:** Mark Step 11 complete in `dialog/README.md` progress tracker
+**Then:** Mark Step 11 complete in `dialog/progress-tracker.md` progress tracker
 
 ## Next Step
 

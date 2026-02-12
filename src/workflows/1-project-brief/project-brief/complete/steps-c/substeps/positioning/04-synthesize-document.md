@@ -69,7 +69,7 @@ Document:
 
 ### 5. Mark Progress
 
-**In `dialog/README.md`:**
+**In `dialog/progress-tracker.md`:**
 - Mark Step 3 (Positioning) as complete
 - Update last_updated timestamp
 
@@ -116,7 +116,7 @@ Northern Öland's geography creates a natural monopoly during summer season, but
 - Final positioning statement and components
 - Strategic rationale
 
-**Then:** Mark Step 3 complete in `dialog/README.md`
+**Then:** Mark Step 3 complete in `dialog/progress-tracker.md`
 
 ---
 

@@ -152,7 +152,7 @@ Help user identify and explore constraints that ground the vision in reality, wi
 [How constraints shape realistic scope]
 ```
 
-**Then:** Mark Step 9/10 complete in `dialog/README.md` progress tracker
+**Then:** Mark Step 9/10 complete in `dialog/progress-tracker.md` progress tracker
 
 ---
 

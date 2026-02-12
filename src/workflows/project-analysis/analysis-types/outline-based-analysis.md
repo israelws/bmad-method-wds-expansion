@@ -45,10 +45,10 @@ phases:
 
 1. **Find dialog folder:**
    - From outline, get `root_folder` (e.g., "docs", "design-process")
-   - Check: `{{root_folder}}/progress/dialog/README.md`
+   - Check: `{{root_folder}}/progress/dialog/progress-tracker.md`
 
 2. **If dialog files exist:**
-   - **Read `dialog/README.md`**: Shows which PB steps are complete, current status
+   - **Read `dialog/progress-tracker.md`**: Shows which PB steps are complete, current status
    - **Read `dialog/00-context.md`**: Working relationship context (stakes, involvement level, recommendation style)
    - **Read `dialog/decisions.md`**: Key decisions made during discovery
    - **Read relevant step dialogs** (02-vision.md, 07-positioning.md, etc.) if needed for deeper context

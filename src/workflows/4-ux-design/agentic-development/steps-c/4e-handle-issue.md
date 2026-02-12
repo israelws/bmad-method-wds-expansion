@@ -58,6 +58,19 @@
 
 ---
 
+## Step 3.5: Re-Verify with Puppeteer
+
+After fixing the issue, run Puppeteer verification before re-presenting:
+
+1. Open page in browser
+2. Verify the fix resolves the reported issue
+3. Verify no regressions on previously passing criteria
+4. Narrate findings with ✓/✗
+
+**Only proceed to re-present when all criteria pass.**
+
+---
+
 ## Step 4: Re-present for Testing
 
 **Your response**:

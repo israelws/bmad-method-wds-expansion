@@ -15,7 +15,7 @@
    - Check: `{{custom_root}}/progress/dialog/README.md`
 
 2. **If dialog files exist:**
-   - Read `dialog/README.md` for progress overview
+   - Read `dialog/progress-tracker.md` for progress overview
    - Check which steps are complete
    - Read relevant dialog files (00-context.md, decisions.md) for conversation history
    - **Context loaded:** You now understand what's been done and where user left off

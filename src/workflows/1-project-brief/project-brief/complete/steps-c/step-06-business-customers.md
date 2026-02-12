@@ -22,7 +22,7 @@ If business model is B2B or Both, guide user to define their ideal business cust
 - Buyer vs end-user distinction
 - Business customer needs and decision criteria
 
-**Then:** Mark Step 6 complete in `dialog/README.md` progress tracker
+**Then:** Mark Step 6 complete in `dialog/progress-tracker.md` progress tracker
 
 ## Next Step
 

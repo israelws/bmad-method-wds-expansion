@@ -131,11 +131,11 @@ Each step file has an **"Agent Dialog Update"** section specifying which dialog 
 - Final artifact documented
 - Key insights captured
 
-**Then:** Mark step complete in `dialog/README.md` progress tracker
+**Then:** Mark step complete in `dialog/progress-tracker.md` progress tracker
 
 ### On Workflow Complete
 
-**1. Update `dialog/README.md`:**
+**1. Update `dialog/progress-tracker.md`:**
 - Mark all steps complete
 - Update status to `complete`
 - List final artifacts generated
@@ -159,7 +159,7 @@ Load and read full config from {project-root}/{bmad_folder}/wds/config.yaml and 
 
 1. Create folder: `{root_folder}/progress/dialog/`
 2. Copy ALL template files from `{project-root}/{bmad_folder}/wds/templates/project-brief-dialog/`:
-   - README.md (progress tracker)
+   - progress-tracker.md (progress tracker)
    - 00-context.md
    - 02-vision.md
    - 03-users.md

@@ -51,7 +51,7 @@ Capture platform strategy, validate alignment with vision and constraints, and d
 - Responsive vs native vs hybrid decision
 - Technical approach and rationale
 
-**Then:** Mark Step 10a complete in `dialog/README.md` progress tracker
+**Then:** Mark Step 10a complete in `dialog/progress-tracker.md` progress tracker
 
 ## Next Step
 

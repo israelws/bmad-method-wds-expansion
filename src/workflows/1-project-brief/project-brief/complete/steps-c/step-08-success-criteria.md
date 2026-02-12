@@ -148,7 +148,7 @@ Help user explore and define what success looks like through conversational ques
 **Measurement approach:** [how they'll track]
 ```
 
-**Then:** Mark Step 7/8 complete in `dialog/README.md` progress tracker
+**Then:** Mark Step 7/8 complete in `dialog/progress-tracker.md` progress tracker
 
 ---
 

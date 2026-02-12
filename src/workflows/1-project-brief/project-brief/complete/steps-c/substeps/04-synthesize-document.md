@@ -45,7 +45,7 @@ Add to `product-brief.md`:
 - Final vision statement
 - Key insights captured
 
-**Then:** Mark Step 2 complete in `dialog/README.md` progress tracker
+**Then:** Mark Step 2 complete in `dialog/progress-tracker.md` progress tracker
 
 ---
 

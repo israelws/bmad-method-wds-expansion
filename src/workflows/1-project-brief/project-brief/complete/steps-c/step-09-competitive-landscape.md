@@ -165,7 +165,7 @@ Help user explore alternatives and discover their unfair advantage through conve
 [Hard questions asked + user's response about defensibility]
 ```
 
-**Then:** Mark Step 8/9 complete in `dialog/README.md` progress tracker
+**Then:** Mark Step 8/9 complete in `dialog/progress-tracker.md` progress tracker
 
 ---
 

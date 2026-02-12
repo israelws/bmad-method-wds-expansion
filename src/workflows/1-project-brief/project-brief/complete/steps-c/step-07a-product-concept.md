@@ -138,7 +138,7 @@ Capture the designer's STRUCTURAL vision - the founding idea, key concept, or co
 - Reflection checkpoint (synthesis + user confirmation/correction)
 - Final concept documentation with concrete example
 
-**Then:** Mark Step 7a complete in `dialog/README.md` progress tracker
+**Then:** Mark Step 7a complete in `dialog/progress-tracker.md` progress tracker
 
 ---
 

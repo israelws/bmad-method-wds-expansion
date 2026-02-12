@@ -28,7 +28,7 @@ Guide user to describe their ideal users in detail. Ask about their role, demogr
 - Reflection checkpoint (synthesis + user confirmation/correction)
 - Primary user definition + secondary users (if applicable)
 
-**Then:** Mark Step 7 complete in `dialog/README.md` progress tracker
+**Then:** Mark Step 7 complete in `dialog/progress-tracker.md` progress tracker
 
 ## Next Step
 

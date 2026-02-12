@@ -82,20 +82,34 @@ if (state === '[state-name]') {
 
 ## Acceptance Criteria
 
-- [ ] All objects visible and positioned correctly
-- [ ] All Object IDs present
-- [ ] Responsive at 375px
-- [ ] State handling works
-- [ ] Console shows logs
-- [ ] Matches spec
+### Agent-Verifiable (Puppeteer)
+
+| # | Criterion | Element | Expected | How to Verify |
+|---|-----------|---------|----------|---------------|
+| 1 | [Object] visible | `[selector]` | Visible | Check display/visibility |
+| 2 | Object ID present | `[selector]` | data-object-id exists | Query selector |
+| 3 | [Text content] | `[selector]` | "[Expected text]" | Read textContent |
+| 4 | Responsive | Container | Fits 375px | Set viewport, check layout |
+
+### User-Evaluable (Qualitative)
+
+- [ ] Section feels consistent with overall design
+- [ ] Interaction flow is intuitive
+- [ ] Visual hierarchy is clear
 
 ## Test Instructions
 
-1. Open `[View].html`
-2. [Action] → Expected: [Result]
-3. [Action] → Expected: [Result]
-4. Console shows: "[Expected log]"
-5. Test at 375px
+### Puppeteer Self-Verification (Agent)
+
+1. Open `[View].html` in Puppeteer
+2. Verify each agent-verifiable criterion (table above)
+3. Narrate findings with ✓/✗
+4. Fix any failures before presenting
+
+### User Qualitative Review
+
+Present to user after Puppeteer verification passes.
+Focus on: feel, flow, clarity, consistency.
 
 ## Notes
 

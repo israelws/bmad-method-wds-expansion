@@ -110,7 +110,7 @@ Help user identify and understand their business model (B2B, B2C, or both) throu
 - [Key implications discussed]
 ```
 
-**Then:** Mark Step 4/5 complete in `dialog/README.md` progress tracker
+**Then:** Mark Step 4/5 complete in `dialog/progress-tracker.md` progress tracker
 
 ---
 

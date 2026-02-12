@@ -30,6 +30,7 @@ web_bundle: true
 
 **Process Guides:**
 - [Agentic Development Guide](guides/AGENTIC-DEVELOPMENT-GUIDE.md)
+- [Inline Testing Guide](guides/INLINE-TESTING-GUIDE.md)
 - [Creation Guide](guides/CREATION-GUIDE.md)
 - [Prototype Initiation Dialog](guides/PROTOTYPE-INITIATION-DIALOG.md)
 - [Prototype Analysis](guides/PROTOTYPE-ANALYSIS.md)
@@ -63,7 +64,7 @@ Identify objects and break view into sections.
 | 4f | Handle Improvement | [4f-handle-improvement.md](steps-c/4f-handle-improvement.md) |
 | 4g | Section Approved | [4g-section-approved.md](steps-c/4g-section-approved.md) |
 
-**Flow:** 4a → 4b → 4c → 4d → [4e/4f if needed → 4d] → 4g → [next section]
+**Flow:** 4a → 4b → 4c → [Puppeteer verify] → 4d → [4e/4f if needed → 4d] → 4g → [next section]
 
 ### Phase 5: Finalization (per view)
 Integration test all states and final approval.

@@ -12,6 +12,26 @@
 
 ---
 
+## Step 0: Agent Self-Verification (Before Presenting)
+
+**BEFORE presenting to the user, verify your own work with Puppeteer.**
+
+See: [Inline Testing Guide](../guides/INLINE-TESTING-GUIDE.md) for full methodology.
+
+**Actions**:
+
+1. Open the page in browser using Puppeteer
+2. Set viewport to target device width
+3. Verify each agent-verifiable criterion from the story file
+4. Narrate findings using the ✓/✗ pattern (actual vs expected)
+5. Fix any failures and re-verify
+
+**If modifying existing features**: Compare against baseline captured before implementation. Confirm only intended changes occurred.
+
+**Only proceed to Step 1 when all agent-verifiable criteria pass.**
+
+---
+
 ## Step 1: Present Implementation
 
 **Your response**:
@@ -28,24 +48,21 @@
 
 ---
 
-## Step 2: Provide Test Instructions
+## Step 2: Present Verification Results & Request Qualitative Review
 
 **Your response**:
-> "**Test Instructions**:
+> "**Puppeteer Verification**: [X/Y] criteria pass.
+> [Brief narration summary — e.g., "Text content, colors, touch targets, and states all match spec."]
+>
+> **Please evaluate these qualitative aspects**:
 >
 > 1. **Open** `[View].html` in browser
-> 2. **Action**: [Specific action] → You should see: [Expected result]
-> 3. **Action**: [Specific action] → You should see: [Expected result]
-> 4. **Check console** → Should show: "[Expected log message]"
-> 5. **Test mobile**: Resize to 375px → Check: [Responsive behavior]"
-
-**If section handles states**:
-> "**State testing**:
-> - [Action to trigger State 1] → Expected: [Result]
-> - [Action to trigger State 2] → Expected: [Result]"
-
-**Your response**:
-> "**Working as expected? Any issues or improvements?**"
+> 2. **Feel the flow**: Does the interaction feel natural?
+> 3. **Visual hierarchy**: Does your eye go to the right place first?
+> 4. **Clarity**: Is it immediately clear what to do?
+> 5. **Consistency**: Does this section feel like it belongs with the rest?
+>
+> **Working as expected? Any issues or improvements?**"
 
 ---
 

@@ -64,6 +64,16 @@ function [functionName]() {
 
 ---
 
+## 📸 Baseline State
+
+_Capture with Puppeteer before implementation when modifying existing features. Skip for new sections._
+
+| Element | Current Value | Notes |
+|---------|---------------|-------|
+| [element] | [current value] | [any relevant context] |
+
+---
+
 ## 📝 Implementation Steps
 
 ### Step 1: [First Step]
@@ -79,33 +89,47 @@ function [functionName]() {
 
 ## ✅ Acceptance Criteria
 
-**After implementing this section, verify**:
+### Agent-Verifiable (Puppeteer)
 
-1. [ ] [Criterion 1 - specific test]
-2. [ ] [Criterion 2 - specific test]
-3. [ ] [Criterion 3 - specific test]
-4. [ ] [Criterion 4 - visual check]
-5. [ ] [Criterion 5 - interaction check]
+| # | Criterion | Element | Expected | How to Verify |
+|---|-----------|---------|----------|---------------|
+| 1 | [Criterion] | `[selector]` | [Value] | [Method] |
+| 2 | [Criterion] | `[selector]` | [Value] | [Method] |
+| 3 | [Criterion] | `[selector]` | [Value] | [Method] |
+
+### User-Evaluable (Qualitative)
+
+- [ ] Flow feels natural and intuitive
+- [ ] Visual hierarchy guides the eye correctly
+- [ ] Section feels consistent with the rest of the prototype
+- [ ] [Additional qualitative criterion]
 
 ---
 
 ## 🧪 How to Test
 
-**Test in browser**:
+### Puppeteer Self-Verification (Agent)
 
-1. Open `[Page-Number]-[Page-Name].html`
-2. [Specific action to take]
-3. [What should happen]
-4. [Another action]
-5. [Expected result]
+Before presenting to user:
 
-**Console checks**:
-- Look for: `[Expected console log message]`
-- No errors should appear
+1. Open `[Page-Number]-[Page-Name].html` in Puppeteer
+2. Set viewport to target width (375px for mobile)
+3. For each agent-verifiable criterion in the table above:
+   - Locate element
+   - Read actual value
+   - Compare to expected
+   - Narrate with ✓/✗
+4. Fix any mismatches and re-verify until all pass
+5. Check console for errors
 
-**Mobile viewport**:
-- Resize browser to 375px width
-- Verify [specific mobile behavior]
+See [Inline Testing Guide](../guides/INLINE-TESTING-GUIDE.md) for full methodology.
+
+### User Qualitative Review
+
+After Puppeteer verification passes, present to user:
+- Summarize Puppeteer results (X/Y criteria pass)
+- Ask user to evaluate qualitative criteria above
+- Collect feedback on feel, flow, clarity, consistency
 
 ---
 

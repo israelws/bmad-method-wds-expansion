@@ -14,9 +14,20 @@ This dialog tracks the Product Brief discovery process - the conversations, refl
 
 ---
 
+## Project Context
+
+**Client/Stakeholder:** {{client_name}} ({{relationship}})
+**Designer:** {{designer_name}}
+**Sign-off Authority:** {{who_approves}}
+**Project Type:** {{internal|external|agency}}
+
+**Working Relationship:**
+{{Brief description of stakes, involvement level, how directive to be}}
+
+---
+
 ## Progress Tracker
 
-- [ ] [Context & Relationship](00-context.md) — Working relationship and project setup
 - [ ] [Vision Capture](02-vision.md) — What we're building and why
 - [ ] [User Definition](03-users.md) — Who we're building for
 - [ ] [Product Concept](04-concept.md) — The founding structural idea

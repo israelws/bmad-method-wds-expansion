@@ -32,7 +32,7 @@ Welcome the user and explain that this is their strategic foundation. Set time e
 - Project configuration decisions
 - Any initial context or expectations discussed
 
-**Then:** Mark Phase 0 / Step 1 complete in `dialog/README.md` progress tracker
+**Then:** Mark Phase 0 / Step 1 complete in `dialog/progress-tracker.md` progress tracker
 
 ## Next Step
 
