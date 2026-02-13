@@ -249,3 +249,5 @@ In the tutorial, you'll plan a usability test for one of your flows and walk thr
 ---
 
 [← Back to Lesson 2](lesson-02-test-results.md) | [Back to Module Overview](module-17-usability-testing-overview.md)
+
+*Part of Module 17: Usability Testing*

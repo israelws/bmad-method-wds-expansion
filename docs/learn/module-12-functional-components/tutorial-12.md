@@ -401,3 +401,5 @@ Choose your design system approach.
 ---
 
 [← Back to Lesson 2](lesson-02-component-anatomy.md) | [Back to Module Overview](module-12-functional-components-overview.md)
+
+*Part of Module 12: Functional Components*

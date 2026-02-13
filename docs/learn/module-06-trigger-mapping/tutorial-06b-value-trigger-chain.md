@@ -363,7 +363,7 @@ Ask yourself:
 ### If This Revealed Complexity
 
 **Upgrade to Full Trigger Mapping:**
-- [Tutorial 05: Create Your Trigger Map](tutorial-05.md)
+- [Tutorial 06: Create Your Trigger Map](tutorial-06.md)
 - Map multiple users and drivers
 - Score features systematically
 - Build comprehensive strategy
@@ -388,6 +388,6 @@ Ask yourself:
 
 ---
 
-[← Back to Lesson 2](lesson-02-heritage-evolution.md) | [Full Trigger Mapping Tutorial →](tutorial-06.md)
+[← Back to Module Overview](module-06-overview.md) | [← Back to Lesson 2](lesson-02-heritage-evolution.md) | [Full Trigger Mapping Tutorial →](tutorial-06.md)
 
 *Part of Module 06: Trigger Mapping*

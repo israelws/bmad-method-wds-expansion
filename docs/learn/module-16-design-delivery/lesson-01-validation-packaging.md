@@ -336,3 +336,5 @@ In the tutorial, you'll run the validation checklist on your own specifications 
 ---
 
 [← Back to Module Overview](module-16-design-delivery-overview.md)
+
+*Part of Module 16: Design Delivery*

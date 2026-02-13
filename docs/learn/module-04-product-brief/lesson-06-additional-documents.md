@@ -630,7 +630,7 @@ You now understand:
 - Make it your single source of truth
 
 **4. Continue to Module 05**
-- [Module 05: Trigger Mapping](../module-05-trigger-mapping/module-05-overview.md)
+- [Module 05: Platform Requirements](../module-05-platform-requirements/module-05-platform-requirements-overview.md)
 - Understanding user psychology
 - Connecting business goals to user needs
 
@@ -643,3 +643,5 @@ You now understand:
 [← Back to Lesson 5](lesson-05-using-brief.md) | [Back to Module Overview](module-04-overview.md)
 
 *Congratulations on completing Module 04! You now have the foundation to create strategic clarity for any project.*
+
+*Part of Module 04: Product Brief*

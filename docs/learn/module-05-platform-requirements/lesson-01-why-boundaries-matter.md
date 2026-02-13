@@ -172,7 +172,7 @@ A simple document that captures:
 4. **Complexity** — Where challenges exist
 5. **Knowledge Gaps** — What we don't know yet
 
-This document travels with your Project Brief because it's strategic context — the shape of reality that all design decisions must respect.
+This document travels with your Product Brief because it's strategic context — the shape of reality that all design decisions must respect.
 
 ---
 
@@ -227,4 +227,6 @@ Then you'll practice with a tutorial that guides you through creating your own p
 
 ---
 
-[← Back to Module Overview](module-06-platform-requirements-overview.md)
+[← Back to Module Overview](module-05-platform-requirements-overview.md)
+
+*Part of Module 05: Platform Requirements*

@@ -377,3 +377,5 @@ Time to show what happens AFTER the default state — the transformations within
 ---
 
 [← Back to Lesson 3](lesson-03-why-hand-sketching.md) | [Back to Module Overview](module-09-conceptual-sketching-overview.md)
+
+*Part of Module 09: Conceptual Sketching*

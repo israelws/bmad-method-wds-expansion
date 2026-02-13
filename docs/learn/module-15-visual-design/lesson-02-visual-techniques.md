@@ -305,3 +305,5 @@ In the tutorial, you'll generate and refine visuals for your own specifications,
 ---
 
 [← Back to Lesson 1](lesson-01-making-it-visible.md) | [Back to Module Overview](module-15-visual-design-overview.md)
+
+*Part of Module 15: Visual Design*

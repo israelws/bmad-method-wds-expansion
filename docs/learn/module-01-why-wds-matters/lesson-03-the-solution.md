@@ -1,6 +1,6 @@
 # Module 01: Why WDS Matters
 
-## Lesson 2: Becoming a Linchpin Designer
+## Lesson 3: Becoming a Linchpin Designer
 
 **The solution: WDS methodology**
 
@@ -68,8 +68,10 @@ You remain in the loop - the skilled, experienced designer who evaluates AI's wo
 
 Now that you understand the solution, let's explore what you'll learn and how to apply it.
 
-**[Continue to Lesson 3: The Path Forward →](lesson-03-the-path-forward.md)**
+**[Continue to Lesson 4: The Path Forward →](lesson-04-the-path-forward.md)**
 
 ---
 
-[← Back to Lesson 1: The Problem](lesson-01-the-problem.md) | [Next: The Path Forward →](lesson-03-the-path-forward.md)
+[← Back to Lesson 2: Designer as Strategic Thinker](lesson-02-designer-as-strategic-thinker.md) | [Module Overview](module-01-overview.md) | [Next: Lesson 4 →](lesson-04-the-path-forward.md)
+
+*Part of Module 01: Why WDS Matters*

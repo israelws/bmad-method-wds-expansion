@@ -53,7 +53,7 @@ This tutorial walks you through the professional process of understanding what y
 - **Consultant proposing to client** → Discovery will help you understand their business needs
 - **Business hiring suppliers** → Discovery will help you clarify what you're buying
 - **Manager/employee seeking approval** → Discovery will help you understand stakeholder priorities
-- **Doing it yourself** → Skip this tutorial, go to Module 04: Create Project Brief
+- **Doing it yourself** → Skip this tutorial, go to Module 04: Create Product Brief
 
 **Your scenario:** [Write your scenario here]
 
@@ -278,7 +278,7 @@ The Strategic Professional emphasizes: "Long contracts are hard to understand, a
 - ✅ Foundation established
 - ✅ Pitch and contract ready to become backbone of project brief
 
-**The connection:** The pitch and contract aren't throwaway documents. When you move to Module 04 to create your Project Brief, these documents become the foundation. The brief builds on the alignment and legal framework you've established.
+**The connection:** The pitch and contract aren't throwaway documents. When you move to Module 04 to create your Product Brief, these documents become the foundation. The brief builds on the alignment and legal framework you've established.
 
 **Workflow complete:**
 1. ✅ Listen - Discovery meeting
@@ -290,7 +290,7 @@ The Strategic Professional emphasizes: "Long contracts are hard to understand, a
 7. ✅ Sign - Both parties committed
 8. ➡️ **Next:** Brief - Use pitch and contract as backbone
 
-**Next:** [Module 04: Create Project Brief](../module-04-project-brief/tutorial-04.md)
+**Next:** [Module 04: Product Brief](../module-04-product-brief/module-04-overview.md)
 
 ---
 
@@ -303,7 +303,7 @@ You've completed this tutorial when:
 - ✅ Alignment document shared in presentation meeting
 - ✅ Stakeholders have accepted (everyone aligned)
 - ✅ Signoff document generated and ready for signature
-- ✅ Ready to proceed to Project Brief
+- ✅ Ready to proceed to Product Brief
 
 ---
 
@@ -334,11 +334,11 @@ A: Variable - discovery meeting (30-60 min), document creation (30-60 min), pres
 
 ## Next Steps
 
-**[Continue to Module 04: Create Project Brief →](../module-04-project-brief/tutorial-04.md)**
+**[Continue to Module 04: Product Brief →](../module-04-product-brief/module-04-overview.md)**
 
 ---
 
 [← Back to Module Overview](module-03-overview.md) | [Back to Course Overview](../00-course-overview/00-course-overview.md)
 
-*Part of the WDS Course: From Designer to Linchpin*
+*Part of Module 03: Alignment & Signoff*
 

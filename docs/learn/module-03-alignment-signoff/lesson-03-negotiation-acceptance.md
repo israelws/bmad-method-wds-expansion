@@ -1,4 +1,6 @@
-# Lesson 3: Negotiation & Acceptance
+# Module 03: Alignment & Signoff
+
+## Lesson 3: Negotiation & Acceptance
 
 **Getting everyone on the same page**
 
@@ -109,7 +111,9 @@
 
 ---
 
-**Next:** [Lesson 4: Securing Commitment →](lesson-04-securing-commitment.md)
+**Next:** [Lesson 4: Securing Commitment →](lesson-04-external-contracts.md)
 
 [← Back to Module Overview](module-03-overview.md)
 
+
+*Part of Module 03: Alignment & Signoff*

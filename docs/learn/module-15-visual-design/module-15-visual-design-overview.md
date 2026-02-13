@@ -276,6 +276,23 @@ Take one specification from Module 11:
 
 ---
 
+## Lessons
+
+### [Lesson 1: Making It Visible](lesson-01-making-it-visible.md)
+From specification to visual reality
+
+### [Lesson 2: Visual Design Techniques](lesson-02-visual-techniques.md)
+Practical methods for generating and refining visuals
+
+---
+
+## Tutorial
+
+### [Tutorial 15: Create Your Visuals](tutorial-15.md)
+Hands-on guide to generating and refining visual designs
+
+---
+
 ## Next Module
 
 **[Module 16: Design Delivery →](../module-16-design-delivery/module-16-design-delivery-overview.md)**

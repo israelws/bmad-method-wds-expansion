@@ -126,7 +126,7 @@ Step-by-step hands-on guide to creating your alignment document and securing sig
 6. **Get acceptance** - Accept: They say yes to the pitch
 7. **Generate signoff** - Contract: Create short, clear contract based on accepted pitch
 8. **Sign** - Both parties sign
-9. **Proceed to Project Brief** - Brief: Use pitch and contract as the backbone
+9. **Proceed to Product Brief** - Brief: Use pitch and contract as the backbone
 
 **Key:** Pitch and contract become the foundation for your project brief - not throwaway documents.
 
@@ -143,7 +143,7 @@ By the end of this module, you will:
 - ✅ Know how to create a compelling alignment document based on real understanding
 - ✅ Be able to negotiate and iterate until acceptance
 - ✅ Generate appropriate external contracts or internal signoff documents
-- ✅ Know when to skip this module and go straight to Project Brief
+- ✅ Know when to skip this module and go straight to Product Brief
 
 ---
 
@@ -154,7 +154,7 @@ By the end of this module, you will:
 - You have full autonomy
 - You don't need stakeholder approval
 
-**Go directly to:** [Module 04: Create Project Brief](../module-04-project-brief/tutorial-04.md)
+**Go directly to:** [Module 04: Product Brief](../module-04-product-brief/module-04-overview.md)
 
 ---
 
@@ -164,7 +164,7 @@ By the end of this module, you will:
 
 ---
 
-[← Back to Course Overview](../00-course-overview/00-course-overview.md) | [Next: Module 04: Create Project Brief →](../module-04-project-brief/tutorial-04.md)
+[← Back to Course Overview](../00-course-overview/00-course-overview.md) | [Next: Module 04: Product Brief →](../module-04-product-brief/module-04-overview.md)
 
 *Part of the WDS Course: From Designer to Linchpin*
 

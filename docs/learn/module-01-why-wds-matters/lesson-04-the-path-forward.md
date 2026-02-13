@@ -1,6 +1,6 @@
 # Module 01: Why WDS Matters
 
-## Lesson 3: Your Transformation
+## Lesson 4: Your Transformation
 
 **From replaceable to indispensable**
 
@@ -75,20 +75,23 @@ _More case studies will be added here as they become available._
 You've completed Module 01: Why WDS Matters. You now understand:
 
 - ✅ The problem: Factory mindset vs linchpin mindset
+- ✅ The strategic shift: Designer as strategic thinker
 - ✅ The solution: Becoming a linchpin designer with WDS
 - ✅ The path forward: 5-dimensional thinking and transformation
 
 **Next steps:**
 
 - Review the practicalities if you haven't already
-- Start Module 02: Project Brief
+- Start Module 02: Installation & Setup
 - Apply these concepts to your own work
 
-**[Continue to Module 02: Project Brief →](../module-02-project-brief/lesson-01-inspiration.md)**
+**[Continue to Module 02: Installation & Setup →](../module-02-installation-setup/module-02-overview.md)**
 
-Or review the practicalities:
-**[Read Course Practicalities →](../00-practicalities.md)**
+Or review the getting started guide:
+**[Getting Started Guide →](../00-course-overview/00-getting-started-overview.md)**
 
 ---
 
-[← Back to Lesson 2](lesson-02-the-solution.md) | [Module Overview](module-01-overview.md) | [Next Module →](../module-02-project-brief/lesson-01-inspiration.md)
+[← Back to Lesson 3](lesson-03-the-solution.md) | [Module Overview](module-01-overview.md) | [Next Module →](../module-02-installation-setup/module-02-overview.md)
+
+*Part of Module 01: Why WDS Matters*

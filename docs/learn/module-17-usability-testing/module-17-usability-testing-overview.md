@@ -200,6 +200,26 @@ Pick one flow from your project:
 
 ---
 
+## Lessons
+
+### [Lesson 1: The Test Scenario](lesson-01-spec-verification.md)
+Preparing everything before the user arrives
+
+### [Lesson 2: Conducting the Test](lesson-02-test-results.md)
+The session, the silence, and the replay
+
+### [Lesson 3: Acting on Findings](lesson-03-acting-on-findings.md)
+Turning observations into design improvements
+
+---
+
+## Tutorial
+
+### [Tutorial 17: Plan Your Usability Test](tutorial-17.md)
+Hands-on guide to preparing and running a usability test session
+
+---
+
 ## Next Module
 
 **[Module 18: Product Evolution →](../module-18-product-evolution/module-18-product-evolution-overview.md)**

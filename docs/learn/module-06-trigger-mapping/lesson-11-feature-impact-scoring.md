@@ -1,4 +1,6 @@
-# Lesson 6: Feature Impact Scoring
+# Module 06: Trigger Mapping
+
+## Lesson 11: Feature Impact Scoring
 
 **Systematic Feature Prioritization**
 
@@ -398,6 +400,6 @@ You're ready to create your own Trigger Map. The tutorial will walk you through 
 
 ---
 
-[← Back to Lesson 10](lesson-10-visual-trigger-map.md) | [Next: Tutorial - Create Your Trigger Map →](tutorial-06.md)
+[← Back to Module Overview](module-06-overview.md) | [← Back to Lesson 10](lesson-10-visual-trigger-map.md) | [Next: Tutorial - Create Your Trigger Map →](tutorial-06.md)
 
 *Part of Module 06: Trigger Mapping*

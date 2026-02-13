@@ -400,3 +400,5 @@ In the next lesson, we'll explore how teams actually use the Product Brief throu
 ---
 
 [← Back to Lesson 3](lesson-03-document-structure.md) | [Back to Module Overview](module-04-overview.md)
+
+*Part of Module 04: Product Brief*

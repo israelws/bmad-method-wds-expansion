@@ -945,3 +945,5 @@ In the tutorial, you'll practice writing complete specifications with Freya guid
 ---
 
 [← Back to Lesson 2](lesson-02-section-widget-specifications.md) | [Back to Module Overview](module-11-conceptual-specifications-overview.md)
+
+*Part of Module 11: Conceptual Specifications*

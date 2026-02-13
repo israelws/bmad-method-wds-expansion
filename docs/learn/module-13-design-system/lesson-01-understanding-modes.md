@@ -270,3 +270,5 @@ Understanding your mode helps you work with Freya effectively. In the tutorial, 
 ---
 
 [← Back to Module Overview](module-13-design-system-overview.md)
+
+*Part of Module 13: Design System*

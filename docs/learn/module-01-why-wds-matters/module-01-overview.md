@@ -8,7 +8,7 @@
 
 This foundational module transforms how you think about your role as a designer in the AI era. You'll learn why mastering WDS makes you irreplaceable and how to become a linchpin designer - the person who makes things happen.
 
-**Time:** ~30 minutes (3 lessons × 10 min each)
+**Time:** ~40 minutes (4 lessons × 10 min each)
 **Prerequisites:** None - this is where you start!
 
 ---
@@ -38,7 +38,19 @@ Understanding the factory mindset and the AI era:
 - AI threat for cogs
 - AI opportunity for linchpin designers
 
-### [Lesson 2: Becoming a Linchpin Designer](lesson-02-the-solution.md)
+### [Lesson 2: Designer as Strategic Thinker](lesson-02-designer-as-strategic-thinker.md)
+
+**Time:** 10 minutes
+
+Your role just changed:
+
+- The shift everyone missed: strategic thinking got cheap too
+- Vibe coding vs strategic craft
+- The three eras of design
+- WDS: Your strategic rocket ship with guard rails
+- Present substance, not sketches
+
+### [Lesson 3: Becoming a Linchpin Designer](lesson-03-the-solution.md)
 
 **Time:** 10 minutes
 
@@ -50,7 +62,7 @@ The solution: WDS methodology:
 - From cog to linchpin designer
 - The paradigm shift: design becomes specification
 
-### [Lesson 3: Your Transformation](lesson-03-the-path-forward.md)
+### [Lesson 4: Your Transformation](lesson-04-the-path-forward.md)
 
 **Time:** 10 minutes
 

@@ -297,3 +297,5 @@ Products don't end at launch. Learn how to evolve them.
 ---
 
 [← Back to Lesson 3](lesson-03-acting-on-findings.md) | [Back to Module Overview](module-17-usability-testing-overview.md)
+
+*Part of Module 17: Usability Testing*

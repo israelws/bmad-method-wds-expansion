@@ -9,7 +9,7 @@
 This tutorial walks you through creating a platform requirements document that captures the technical reality your design must work within.
 
 **Time:** 15-20 minutes
-**Prerequisites:** Module 04 (Project Brief) completed
+**Prerequisites:** Module 04 (Product Brief) completed
 **Agent:** Saga
 **What you'll create:** `A-Product-Brief/platform-requirements.md`
 
@@ -19,7 +19,7 @@ This tutorial walks you through creating a platform requirements document that c
 
 **You'll need:**
 
-- Your completed Project Brief
+- Your completed Product Brief
 - Basic understanding of the project's technical context
 - Access to technical stakeholders (helpful but not required)
 
@@ -37,13 +37,13 @@ This tutorial walks you through creating a platform requirements document that c
 ### Open your AI IDE and start a conversation:
 
 **You say:**
-> "I need to create platform requirements for my project. I've completed my Project Brief. Can you help me document the technical boundaries?"
+> "I need to create platform requirements for my project. I've completed my Product Brief. Can you help me document the technical boundaries?"
 
 **Saga responds with initial questions about your project context.**
 
 ### Provide context:
 
-Share your Project Brief or summarize:
+Share your Product Brief or summarize:
 - What you're building
 - Who it's for
 - Key goals
@@ -233,7 +233,7 @@ If anything is missing or wrong, tell Saga:
 
 ### Saga confirms:
 
-> "Platform requirements saved. This document is now part of your strategic foundation alongside your Project Brief."
+> "Platform requirements saved. This document is now part of your strategic foundation alongside your Product Brief."
 
 ---
 
@@ -355,7 +355,7 @@ A: Add it to the document. Better to discover and document late than never.
 **Platform Requirements Complete**
 
 You now have:
-- ✅ Project Brief (Module 04)
+- ✅ Product Brief (Module 04)
 - ✅ Platform Requirements (Module 05)
 
 **Next up: Trigger Mapping to connect business goals to user psychology.**
@@ -366,10 +366,12 @@ You now have:
 
 ## Next Module
 
-**[Module 07: The Design Phase →](../module-07-design-phase/module-07-design-phase-overview.md)**
+**[Module 06: Trigger Mapping →](../module-06-trigger-mapping/module-06-overview.md)**
 
-Meet Freya and begin transforming strategy into design.
+Connect business goals to user psychology with Saga.
 
 ---
 
-[← Back to Lesson 2](lesson-02-defining-platform-requirements.md) | [Back to Module Overview](module-06-platform-requirements-overview.md)
+[← Back to Lesson 2](lesson-02-defining-platform-requirements.md) | [Back to Module Overview](module-05-platform-requirements-overview.md)
+
+*Part of Module 05: Platform Requirements*

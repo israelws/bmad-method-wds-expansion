@@ -106,8 +106,10 @@ The bottleneck in product development used to be coding. AI demolished that. Now
 
 Now that you understand the problem, let's explore the solution.
 
-**[Continue to Lesson 2: The Solution →](lesson-02-the-solution.md)**
+**[Continue to Lesson 2: Designer as Strategic Thinker →](lesson-02-designer-as-strategic-thinker.md)**
 
 ---
 
-[← Back to Module Overview](module-01-overview.md) | [Next: Lesson 2 →](lesson-02-the-solution.md)
+[← Back to Module Overview](module-01-overview.md) | [Next: Lesson 2 →](lesson-02-designer-as-strategic-thinker.md)
+
+*Part of Module 01: Why WDS Matters*

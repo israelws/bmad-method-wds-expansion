@@ -1,4 +1,4 @@
-# Tutorial 04: Create Your Project Brief
+# Tutorial 04: Create Your Product Brief
 
 **Hands-on guide to defining your project vision, goals, and constraints**
 
@@ -9,7 +9,7 @@
 This tutorial walks you through creating a complete project brief that serves as the foundation for all design decisions.
 
 **Time:** 30-45 minutes  
-**Prerequisites:** Module 01 completed  
+**Prerequisites:** Module 02 completed (WDS installed)  
 **What you'll create:** A complete project brief document
 
 ---
@@ -318,7 +318,7 @@ Agent: "Let me review your project brief:
 
 ---
 
-## Step 7: Save Your Project Brief
+## Step 7: Save Your Product Brief
 
 **Create file:** `A-Project-Brief/project-brief.md`
 
@@ -354,7 +354,7 @@ Agent: "Let me review your project brief:
 
 **Next Module:**
 
-- [Module 03: Identify Target Groups](../module-03-identify-target-groups/module-03-overview.md)
+- [Module 03: Identify Target Groups](../module-03-alignment-signoff/module-03-overview.md)
 - Start mapping WHO your users are
 
 ---
@@ -397,4 +397,6 @@ A: Use the brief to facilitate alignment discussions. Document disagreements and
 
 **Your project brief is the foundation for everything that follows. Take the time to get it right!**
 
-[← Back to Module 02](module-02-overview.md) | [Next: Module 03 →](../module-03-identify-target-groups/module-03-overview.md)
+[← Back to Module Overview](module-04-overview.md) | [Next: Module 05 - Platform Requirements →](../module-05-platform-requirements/module-05-platform-requirements-overview.md)
+
+*Part of Module 04: Product Brief*

@@ -7,7 +7,7 @@
 ## Welcome to the Heart of WDS
 
 You've completed Strategy. You have:
-- A Project Brief (your North Star)
+- A Product Brief (your North Star)
 - Platform Requirements (your boundaries)
 - A Trigger Map (user psychology mapped)
 
@@ -121,6 +121,19 @@ Every interaction traces back to user psychology.
 Every component connects to a business goal.
 
 **Nothing is decoration. Everything is decision.**
+
+---
+
+## Lessons
+
+### [Lesson 1: Entering Design Mode](lesson-01-entering-design.md)
+The transition from strategy to creation
+
+### [Lesson 2: Why Specifications Matter](lesson-02-why-specifications-matter.md)
+The New Code: Specifications as the Foundation of Professional AI-Assisted Development
+
+### [Lesson 3: Meet Freya](lesson-03-meet-freya.md)
+Your UX design partner
 
 ---
 

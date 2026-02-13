@@ -27,7 +27,7 @@ It's a 2-3 page strategic document that answers the 5 critical questions clearly
 Here's what a Product Brief looks like:
 
 ```markdown
-# Project Brief: [Project Name]
+# Product Brief: [Project Name]
 
 ## Vision
 
@@ -386,3 +386,5 @@ In the next lesson, we'll explore how WDS makes creating this document fast thro
 ---
 
 [← Back to Lesson 2](lesson-02-five-questions.md) | [Back to Module Overview](module-04-overview.md)
+
+*Part of Module 04: Product Brief*

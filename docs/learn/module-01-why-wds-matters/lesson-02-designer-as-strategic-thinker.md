@@ -192,7 +192,7 @@ Everyone sees AI making code cheap. The amateurs stop there.
 ### Phase 1: Forge Strategy (Module 04-06)
 
 **With Saga's help:**
-- Project Brief: Align vision with business goals
+- Product Brief: Align vision with business goals
 - Trigger Mapping: Connect user psychology to business value
 - Feature scoring: Prioritize ruthlessly based on data
 
@@ -478,6 +478,6 @@ Amateur vibe coders? They're why businesses need guard rails.
 
 ---
 
-[← Back to Lesson 1](lesson-01-the-problem.md) | [Module Overview](module-01-overview.md)
+[← Back to Lesson 1](lesson-01-the-problem.md) | [Module Overview](module-01-overview.md) | [Next: Lesson 3 →](lesson-03-the-solution.md)
 
 *Part of Module 01: Why WDS Matters*

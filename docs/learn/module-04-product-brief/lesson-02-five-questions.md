@@ -362,3 +362,5 @@ In the next lesson, we'll look at what a Product Brief actually looks like - the
 ---
 
 [← Back to Lesson 1](lesson-01-chaos-problem.md) | [Back to Module Overview](module-04-overview.md)
+
+*Part of Module 04: Product Brief*

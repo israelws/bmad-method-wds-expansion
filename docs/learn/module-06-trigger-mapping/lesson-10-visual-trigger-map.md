@@ -1,4 +1,6 @@
-# Lesson 5: The Visual Trigger Map
+# Module 06: Trigger Mapping
+
+## Lesson 10: The Visual Trigger Map
 
 **Your One-Page Strategic Document**
 
@@ -406,6 +408,6 @@ The final lesson covers Feature Impact Scoring - how to systematically evaluate 
 
 ---
 
-[← Back to Lesson 9](lesson-09-positive-negative-drivers.md) | [Next: Lesson 11 - Feature Impact Scoring →](lesson-11-feature-impact-scoring.md)
+[← Back to Module Overview](module-06-overview.md) | [← Back to Lesson 9](lesson-09-positive-negative-drivers.md) | [Next: Lesson 11 - Feature Impact Scoring →](lesson-11-feature-impact-scoring.md)
 
 *Part of Module 06: Trigger Mapping*

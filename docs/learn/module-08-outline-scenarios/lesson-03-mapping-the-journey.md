@@ -32,7 +32,7 @@ Freya fills this in automatically from your Trigger Map. The VTC shows the strat
 
 ```
 ## Value Trigger Chain (VTC)
-- Business Goal: BG01 - 5,000 active teams (from Project Brief)
+- Business Goal: BG01 - 5,000 active teams (from Product Brief)
 - Persona: Remote Team Leads (Priority #1 from Workshop 4)
 - Driving Force: Fear of team burnout going unnoticed (Top driver)
 - Transaction: Create and send first pulse check
@@ -411,3 +411,5 @@ In the tutorial, you'll create scenario outlines for your own project. Freya wil
 ---
 
 [← Back to Lesson 2](lesson-02-from-trigger-map-to-scenarios.md) | [Back to Module Overview](module-08-outline-scenarios-overview.md)
+
+*Part of Module 08: Outline Scenarios*

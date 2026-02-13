@@ -1,4 +1,6 @@
-# Lesson 5: Workshop 3 - Driving Forces
+# Module 06: Trigger Mapping
+
+## Lesson 6: Workshop 3 - Driving Forces
 
 **Saga Helps You Map the Psychology That Drives Behavior**
 
@@ -488,6 +490,6 @@ Workshop 4 prioritizes these drivers - ranking which groups and which psychologi
 
 ---
 
-[← Back to Lesson 5](lesson-05-workshop-2-target-groups.md) | [Next: Lesson 7 - Workshop 4: Prioritization →](lesson-07-workshop-4-prioritization.md)
+[← Back to Module Overview](module-06-overview.md) | [← Back to Lesson 5](lesson-05-workshop-2-target-groups.md) | [Next: Lesson 7 - Workshop 4: Prioritization →](lesson-07-workshop-4-prioritization.md)
 
 *Part of Module 06: Trigger Mapping*

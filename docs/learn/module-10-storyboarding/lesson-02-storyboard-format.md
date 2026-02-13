@@ -406,3 +406,5 @@ In the tutorial, you'll create storyboards for the interactive elements in your 
 ---
 
 [← Back to Lesson 1](lesson-01-transformations.md) | [Back to Module Overview](module-10-storyboarding-overview.md)
+
+*Part of Module 10: Storyboarding*

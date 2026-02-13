@@ -1,4 +1,6 @@
-# Lesson 02: IDE Installation
+# Module 02: Installation & Setup
+
+## Lesson 2: IDE Installation
 
 **Get your workspace ready**
 
@@ -69,8 +71,8 @@ Press **Ctrl+`** (Win/Linux) or **Cmd+`** (Mac)
 
 ## Troubleshooting
 
-**Issue:** Can't find download → Check Downloads folder  
-**Issue:** Mac "unidentified developer" → Right-click → Open  
+**Issue:** Can't find download → Check Downloads folder
+**Issue:** Mac "unidentified developer" → Right-click → Open
 **Issue:** Terminal won't open → View menu → Terminal → New Terminal
 
 ---
@@ -79,10 +81,9 @@ Press **Ctrl+`** (Win/Linux) or **Cmd+`** (Mac)
 
 IDE ready! Now clone your Git repository.
 
-**[Continue to Lesson 03: Git Repository Cloning →](../lesson-03-git-cloning/02-full-lesson.md)**
+**[Continue to Lesson 03: Git Repository Cloning →](lesson-03-git-cloning.md)**
 
 ---
 
-*Part of Module 02: Installation & Setup*  
-*[← Back to Module Overview](../module-02-overview.md)*
-
+*Part of Module 02: Installation & Setup*
+*[← Back to Module Overview](module-02-overview.md)*

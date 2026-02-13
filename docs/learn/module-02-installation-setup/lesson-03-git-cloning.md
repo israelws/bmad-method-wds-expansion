@@ -1,4 +1,6 @@
-# Lesson 03: Git Repository Cloning
+# Module 02: Installation & Setup
+
+## Lesson 3: Git Repository Cloning
 
 **Clone your project to your computer**
 
@@ -42,7 +44,7 @@ cd ~/Projects
 1. Go to your repository on GitHub
 2. Click green **"Code"** button
 3. Make sure **"HTTPS"** selected
-4. Click copy icon (📋)
+4. Click copy icon
 
 **Your URL:** `https://github.com/your-username/your-project.git`
 
@@ -92,8 +94,8 @@ git clone https://github.com/john-designer/dog-walker-app.git
 
 ## Troubleshooting
 
-**Issue:** "Git command not found" → Let IDE install when prompted  
-**Issue:** "Permission denied" → Sign into GitHub in IDE  
+**Issue:** "Git command not found" → Let IDE install when prompted
+**Issue:** "Permission denied" → Sign into GitHub in IDE
 **Issue:** Clone fails → Check URL copied correctly
 
 ---
@@ -102,10 +104,9 @@ git clone https://github.com/john-designer/dog-walker-app.git
 
 Project cloned! Now initialize WDS and meet Mimir.
 
-**[Continue to Lesson 04: WDS Project Initialization →](../lesson-04-wds-initialization/02-full-lesson.md)**
+**[Continue to Lesson 04: WDS Project Initialization →](lesson-04-wds-initialization.md)**
 
 ---
 
-*Part of Module 02: Installation & Setup*  
-*[← Back to Module Overview](../module-02-overview.md)*
-
+*Part of Module 02: Installation & Setup*
+*[← Back to Module Overview](module-02-overview.md)*

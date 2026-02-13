@@ -336,3 +336,5 @@ Add soul and visual polish to your prototypes.
 ---
 
 [← Back to Lesson 5](lesson-05-git-discipline.md) | [Back to Module Overview](module-14-agentic-development-overview.md)
+
+*Part of Module 14: Agentic Development*

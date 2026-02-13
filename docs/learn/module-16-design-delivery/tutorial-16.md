@@ -403,3 +403,5 @@ Test your design with real users.
 ---
 
 [← Back to Lesson 1](lesson-01-validation-packaging.md) | [Back to Module Overview](module-16-design-delivery-overview.md)
+
+*Part of Module 16: Design Delivery*

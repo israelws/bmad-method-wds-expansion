@@ -212,3 +212,5 @@ In the next lesson, you'll learn specific techniques for generating and refining
 ---
 
 [← Back to Module Overview](module-15-visual-design-overview.md)
+
+*Part of Module 15: Visual Design*

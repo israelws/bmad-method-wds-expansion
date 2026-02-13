@@ -833,4 +833,4 @@ You'll learn:
 
 [← Back to Lesson 1](lesson-01-entering-design.md) | [Module Overview](module-07-design-phase-overview.md)
 
-*Part of Module 07: The Design Phase*
+*Part of Module 07: Design Phase*

@@ -373,3 +373,5 @@ Package and deliver your design.
 ---
 
 [← Back to Lesson 2](lesson-02-visual-techniques.md) | [Back to Module Overview](module-15-visual-design-overview.md)
+
+*Part of Module 15: Visual Design*

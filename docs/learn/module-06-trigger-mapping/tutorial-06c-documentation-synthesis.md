@@ -473,3 +473,9 @@ A: Trigger Map organizes research into actionable structure, identifies gaps, va
 ---
 
 **Ready to transform your documentation into an actionable Trigger Map?** Activate Saga and begin! 🎯
+
+---
+
+[← Back to Tutorial 06](tutorial-06.md) | [Module Overview](module-06-overview.md) | [Next Module →](../module-07-design-phase/module-07-design-phase-overview.md)
+
+*Part of Module 06: Trigger Mapping*

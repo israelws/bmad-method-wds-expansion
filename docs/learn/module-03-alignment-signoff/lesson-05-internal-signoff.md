@@ -1,4 +1,6 @@
-# Lesson 5: Internal Signoff Documents
+# Module 03: Alignment & Signoff
+
+## Lesson 5: Internal Signoff Documents
 
 **Formalizing alignment for internal company projects**
 
@@ -171,9 +173,9 @@
 - ✅ Internal alignment achieved
 - ✅ Budget/resources committed
 - ✅ Stakeholders on board
-- ✅ Ready to proceed to Project Brief
+- ✅ Ready to proceed to Product Brief
 
-**Next:** [Module 04: Create Project Brief](../module-04-project-brief/tutorial-04.md)
+**Next:** [Module 04: Product Brief](../module-04-product-brief/module-04-overview.md)
 
 ---
 
@@ -187,3 +189,5 @@
 
 [← Back to Module Overview](module-03-overview.md) | [Previous: Lesson 4: External Contracts →](lesson-04-external-contracts.md)
 
+
+*Part of Module 03: Alignment & Signoff*

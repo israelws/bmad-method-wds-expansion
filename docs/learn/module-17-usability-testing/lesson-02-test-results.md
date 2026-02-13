@@ -236,3 +236,5 @@ You have recordings and observation notes. In the next lesson, you'll turn them 
 ---
 
 [← Back to Lesson 1](lesson-01-spec-verification.md) | [Back to Module Overview](module-17-usability-testing-overview.md)
+
+*Part of Module 17: Usability Testing*

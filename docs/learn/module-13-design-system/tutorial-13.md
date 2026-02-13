@@ -1,4 +1,4 @@
-# Tutorial 14: Apply Your Mode
+# Tutorial 13: Apply Your Mode
 
 **Hands-on guide to working effectively in your design system mode**
 
@@ -340,3 +340,5 @@ Generate working prototypes from your specifications.
 ---
 
 [← Back to Lesson 1](lesson-01-understanding-modes.md) | [Back to Module Overview](module-13-design-system-overview.md)
+
+*Part of Module 13: Design System*

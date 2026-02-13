@@ -589,3 +589,5 @@ In Lesson 3, you'll learn how to specify elements and states completely, coverin
 ---
 
 [← Back to Module Overview](module-11-conceptual-specifications-overview.md)
+
+*Part of Module 11: Conceptual Specifications*

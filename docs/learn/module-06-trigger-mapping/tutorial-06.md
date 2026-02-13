@@ -567,7 +567,7 @@ A: Show them the Trigger Map and scoring matrix. Walk through the strategic reas
 - Use scores to guide sprint planning
 
 **Next Module:**
-- [Module 06: Scenarios](../module-06-scenarios/module-06-overview.md)
+- [Module 06: Scenarios](../module-08-outline-scenarios/module-08-outline-scenarios-overview.md)
 - Transform your Trigger Map into detailed user scenarios
 
 ---

@@ -196,6 +196,32 @@ Pick one specification and run the full loop:
 
 ---
 
+## Lessons
+
+### [Lesson 1: The Development Agent Dialog](lesson-01-iterative-building.md)
+How the process is organized
+
+### [Lesson 2: Evaluation and Feedback](lesson-02-documenting-decisions.md)
+Staying in control as the agent builds
+
+### [Lesson 3: When You Get Stuck](lesson-03-when-you-get-stuck.md)
+Because AI doesn't always get it right
+
+### [Lesson 4: Choosing Your Code Format](lesson-04-working-with-code.md)
+Understanding what the agent produces and which technology fits your needs
+
+### [Lesson 5: Git Discipline](lesson-05-git-discipline.md)
+Keeping your work safe, organized, and shareable
+
+---
+
+## Tutorial
+
+### [Tutorial 14: Your First Agentic Session](tutorial-14.md)
+Hands-on guide to running a complete agentic development loop
+
+---
+
 ## Next Module
 
 **[Module 15: Visual Design →](../module-15-visual-design/module-15-visual-design-overview.md)**

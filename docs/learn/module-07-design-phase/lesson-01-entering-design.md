@@ -10,7 +10,7 @@
 
 Take a moment to appreciate what you've accomplished:
 
-**Module 04: Project Brief** — Your North Star
+**Module 04: Product Brief** — Your North Star
 - Vision and positioning
 - Target users and stakeholders
 - Success criteria and constraints
@@ -233,7 +233,7 @@ When you can't explain it, something's missing.
 ## Ready to Design
 
 You have:
-- Strategic foundation (Project Brief, Trigger Map, Platform Requirements)
+- Strategic foundation (Product Brief, Trigger Map, Platform Requirements)
 - A thinking partner (Freya)
 - A clear workflow (8 steps)
 - Flexible entry points (multiple ways to start each step)
@@ -247,3 +247,5 @@ Let's begin.
 ---
 
 [← Back to Module Overview](module-07-design-phase-overview.md)
+
+*Part of Module 07: Design Phase*

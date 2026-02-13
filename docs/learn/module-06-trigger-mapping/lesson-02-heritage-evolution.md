@@ -1,4 +1,6 @@
-# Lesson 2: The Heritage & Evolution
+# Module 06: Trigger Mapping
+
+## Lesson 2: The Heritage & Evolution
 
 **From Effect Management to Trigger Mapping**
 
@@ -233,7 +235,7 @@ WDS offers three ways to apply Trigger Mapping methodology, depending on your si
 
 **Time investment:** 60-90 minutes  
 **Output:** Complete Trigger Map + scored feature list  
-**Tutorial:** [Tutorial 05: Create Your Trigger Map](tutorial-05.md)
+**Tutorial:** [Tutorial 06: Create Your Trigger Map](tutorial-06.md)
 
 ---
 
@@ -254,7 +256,7 @@ WDS offers three ways to apply Trigger Mapping methodology, depending on your si
 
 **Time investment:** 15-20 minutes  
 **Output:** Single-chain map from goal to trigger  
-**Tutorial:** [Tutorial 05B: Create Your Value Trigger Chain](tutorial-05b-value-trigger-chain.md)
+**Tutorial:** [Tutorial 06B: Create Your Value Trigger Chain](tutorial-06b-value-trigger-chain.md)
 
 ---
 
@@ -275,7 +277,7 @@ WDS offers three ways to apply Trigger Mapping methodology, depending on your si
 
 **Time investment:** 30-45 minutes  
 **Output:** Synthesized Trigger Map + gap analysis  
-**Tutorial:** [Tutorial 05C: Synthesize from Documentation](tutorial-05c-documentation-synthesis.md)
+**Tutorial:** [Tutorial 06C: Synthesize from Documentation](tutorial-06c-documentation-synthesis.md)
 
 **The problem this solves:**
 Organizations spend thousands on research that sits unused. 200-page reports nobody reads. Interview transcripts gathering dust. This approach transforms that investment into a single-slide strategic artifact you can actually use in daily design work and AI chats.
@@ -359,6 +361,6 @@ You'll see exactly how to create your Trigger Map.
 
 ---
 
-[← Back to Lesson 1](lesson-01-missing-link.md) | [Next: Lesson 3 - The Five Workshops →](lesson-03-five-workshops.md)
+[← Back to Module Overview](module-06-overview.md) | [← Back to Lesson 1](lesson-01-missing-link.md) | [Next: Lesson 3 - The Five Workshops →](lesson-03-five-workshops-overview.md)
 
 *Part of Module 06: Trigger Mapping*

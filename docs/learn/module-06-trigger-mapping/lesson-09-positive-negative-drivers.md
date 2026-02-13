@@ -1,4 +1,6 @@
-# Lesson 4: Positive & Negative Drivers
+# Module 06: Trigger Mapping
+
+## Lesson 9: Positive & Negative Drivers
 
 **The Psychology That Drives Behavior**
 
@@ -500,6 +502,6 @@ Think about a product you use regularly. Identify:
 
 ---
 
-[← Back to Lesson 8](lesson-08-workshop-5-feature-impact.md) | [Next: Lesson 10 - Visual Trigger Map →](lesson-10-visual-trigger-map.md)
+[← Back to Module Overview](module-06-overview.md) | [← Back to Lesson 8](lesson-08-workshop-5-feature-impact.md) | [Next: Lesson 10 - Visual Trigger Map →](lesson-10-visual-trigger-map.md)
 
 *Part of Module 06: Trigger Mapping*

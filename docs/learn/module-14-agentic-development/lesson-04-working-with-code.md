@@ -300,3 +300,5 @@ Whether you're producing static HTML or executable code, you need a way to keep 
 ---
 
 [← Back to Lesson 3](lesson-03-when-you-get-stuck.md) | [Back to Module Overview](module-14-agentic-development-overview.md)
+
+*Part of Module 14: Agentic Development*

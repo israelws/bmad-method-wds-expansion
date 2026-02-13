@@ -191,3 +191,5 @@ In the next lesson, we'll explore the 5 strategic questions that every Product B
 ---
 
 [← Back to Module Overview](module-04-overview.md)
+
+*Part of Module 04: Product Brief*

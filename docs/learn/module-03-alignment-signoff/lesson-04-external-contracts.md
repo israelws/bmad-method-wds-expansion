@@ -1,4 +1,6 @@
-# Lesson 4: External Contracts
+# Module 03: Alignment & Signoff
+
+## Lesson 4: External Contracts
 
 **Formalizing alignment with external contracts**
 
@@ -183,9 +185,9 @@
 - ✅ Alignment achieved
 - ✅ Commitment secured
 - ✅ Legal protection in place
-- ✅ Ready to proceed to Project Brief
+- ✅ Ready to proceed to Product Brief
 
-**Next:** [Module 04: Create Project Brief](../module-04-project-brief/tutorial-04.md)
+**Next:** [Module 04: Product Brief](../module-04-product-brief/module-04-overview.md)
 
 ---
 
@@ -199,3 +201,5 @@
 
 [← Back to Module Overview](module-03-overview.md)
 
+
+*Part of Module 03: Alignment & Signoff*

@@ -36,7 +36,7 @@
 
 **Breakdown:**
 
-- **Week 1-2:** Foundation modules (Why WDS, Project Brief)
+- **Week 1-2:** Foundation modules (Why WDS, Product Brief)
 - **Week 3-4:** Core workflow (Trigger Mapping, Scenarios)
 - **Week 5-6:** Advanced topics (Design Systems, Handoff)
 - **Ongoing:** Practice with your own projects
@@ -95,4 +95,4 @@ You have everything you need if you can answer YES to these:
 
 ---
 
-[← Back to Overview](overview.md) | [Next: Learning Paths →](02-learning-paths.md)
+[← Back to Overview](00-getting-started-overview.md) | [Next: Learning Paths →](02-learning-paths.md)

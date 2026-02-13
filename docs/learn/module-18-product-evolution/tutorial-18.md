@@ -264,7 +264,7 @@ Same WDS process. Smaller scope. Full discipline.
 
 **Congratulations.** You've learned the full methodology:
 
-1. **Strategy** — Project Brief, Trigger Map, Platform Requirements
+1. **Strategy** — Product Brief, Trigger Map, Platform Requirements
 2. **Design** — Scenarios, Sketches, Storyboards, Specifications, Components, Design System
 3. **Build** — Agentic Development, Visual Design, Design Delivery
 4. **Validate** — Usability Testing
@@ -285,9 +285,9 @@ Whether you're starting from a blank page or improving a live product, the proce
 
 ---
 
-**[← Back to Lesson 2](lesson-02-update-spec-project-code.md)** | **[Back to Course Overview](../00-course-overview/00-course-overview.md)**
+**[← Back to Lesson 2](lesson-02-update-spec-project-code.md)** | **[← Back to Module Overview](module-18-product-evolution-overview.md)** | **[Back to Course Overview](../00-course-overview/00-course-overview.md)**
 
 ---
 
 *Created by Mårten Angner and the Whiteport team*
-*Part of the BMad Method ecosystem*
+*Part of Module 18: Product Evolution*

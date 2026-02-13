@@ -144,7 +144,7 @@ Deep dive into the psychology that drives behavior:
 **The Four-Layer Structure:**
 - Business Goals → Product/Solution → Target Groups → Usage Goals (Positive + Negative separated)
 
-**What you'll learn:**ategic one-page document:
+**What you'll learn:** Your strategic one-page document:
 
 - What the Trigger Map looks like
 - How to read and use it

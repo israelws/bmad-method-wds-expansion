@@ -356,6 +356,23 @@ Review your specifications from Module 11:
 
 ---
 
+## Lessons
+
+### [Lesson 1: When Patterns Emerge](lesson-01-patterns-emerge.md)
+Identifying reusable elements across your specifications
+
+### [Lesson 2: Functional Component Anatomy](lesson-02-component-anatomy.md)
+How to document Functional Components completely
+
+---
+
+## Tutorial
+
+### [Tutorial 12: Extract Your Components](tutorial-12.md)
+Hands-on guide to identifying and documenting reusable patterns
+
+---
+
 ## Next Module
 
 **[Module 13: Design System →](../module-13-design-system/module-13-design-system-overview.md)**

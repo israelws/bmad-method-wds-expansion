@@ -345,3 +345,5 @@ In the tutorial, you'll run through a complete agentic development session — f
 ---
 
 [← Back to Lesson 4](lesson-04-working-with-code.md) | [Back to Module Overview](module-14-agentic-development-overview.md)
+
+*Part of Module 14: Agentic Development*

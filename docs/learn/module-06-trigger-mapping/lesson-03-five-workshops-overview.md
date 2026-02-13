@@ -1,4 +1,6 @@
-# Lesson 3: The Five Workshops Overview
+# Module 06: Trigger Mapping
+
+## Lesson 3: The Five Workshops Overview
 
 **Your Roadmap to Strategic Clarity**
 
@@ -436,7 +438,7 @@ The next five lessons dive deep into each workshop:
 - Common mistakes to avoid
 - Tips for success
 
-**After the lessons:** Tutorial 05 walks you through all 5 workshops step-by-step with Saga.
+**After the lessons:** Tutorial 06 walks you through all 5 workshops step-by-step with Saga.
 
 ---
 
@@ -454,6 +456,6 @@ The next five lessons dive deep into each workshop:
 
 ---
 
-[← Back to Lesson 2](lesson-02-heritage-evolution.md) | [Next: Lesson 4 - Workshop 1: Business Goals →](lesson-04-workshop-1-business-goals.md)
+[← Back to Module Overview](module-06-overview.md) | [← Back to Lesson 2](lesson-02-heritage-evolution.md) | [Next: Lesson 4 - Workshop 1: Business Goals →](lesson-04-workshop-1-business-goals.md)
 
 *Part of Module 06: Trigger Mapping*

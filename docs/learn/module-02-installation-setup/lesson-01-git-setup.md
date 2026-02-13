@@ -1,4 +1,6 @@
-# Lesson 01: Git Setup
+# Module 02: Installation & Setup
+
+## Lesson 1: Git Setup
 
 **Create GitHub account and project repository**
 
@@ -40,9 +42,9 @@ Professional cloud storage + time machine for your project files. Every change i
 
 ## Part 2: Choose Your Scenario
 
-**Scenario A:** Starting new project → Continue to Part 3  
-**Scenario B:** Joining existing → Skip to Part 5  
-**Scenario C:** Just learning → Skip to [Lesson 02](../lesson-02-ide-installation/02-full-lesson.md)
+**Scenario A:** Starting new project → Continue to Part 3
+**Scenario B:** Joining existing → Skip to Part 5
+**Scenario C:** Just learning → Skip to [Lesson 02](lesson-02-ide-installation.md)
 
 ---
 
@@ -86,7 +88,7 @@ Professional cloud storage + time machine for your project files. Every change i
 ```
 Hi [Name],
 
-I'd like to contribute to [project-name] using WDS methodology. 
+I'd like to contribute to [project-name] using WDS methodology.
 Could you add me as a collaborator?
 
 My GitHub username: [your-username]
@@ -105,8 +107,8 @@ Thank you!
 
 ## Troubleshooting
 
-**Issue:** Verification email missing → Check spam  
-**Issue:** Username taken → Try `yourname-designer-2`  
+**Issue:** Verification email missing → Check spam
+**Issue:** Username taken → Try `yourname-designer-2`
 **Issue:** Repository name taken → Add your username
 
 ---
@@ -115,10 +117,9 @@ Thank you!
 
 GitHub account and repository ready! Now install your IDE.
 
-**[Continue to Lesson 02: IDE Installation →](../lesson-02-ide-installation/02-full-lesson.md)**
+**[Continue to Lesson 02: IDE Installation →](lesson-02-ide-installation.md)**
 
 ---
 
-*Part of Module 02: Installation & Setup*  
-*[← Back to Module Overview](../module-02-overview.md)*
-
+*Part of Module 02: Installation & Setup*
+*[← Back to Module Overview](module-02-overview.md)*

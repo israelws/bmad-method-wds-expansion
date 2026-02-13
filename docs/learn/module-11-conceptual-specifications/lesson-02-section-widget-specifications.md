@@ -700,3 +700,5 @@ In Lesson 3, you'll learn how to specify cards and elements with complete state 
 ---
 
 [← Back to Lesson 1](lesson-01-design-is-specification.md) | [Back to Module Overview](module-11-conceptual-specifications-overview.md)
+
+*Part of Module 11: Conceptual Specifications*

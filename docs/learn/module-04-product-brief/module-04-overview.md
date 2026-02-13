@@ -141,7 +141,7 @@ Step-by-step hands-on guide to creating your Product Brief with Saga.
 
 **Additional Documents:**
 - Optional strategic documents created as needed
-- All live in Project Brief folder
+- All live in Product Brief folder
 - Same conversational approach with Saga
 - Expand foundation based on project complexity
 

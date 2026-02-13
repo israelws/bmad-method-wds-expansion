@@ -21,7 +21,7 @@ This tutorial walks you through creating scenario outlines that map user journey
 
 - Your completed Trigger Map
 - Understanding of your personas and their goals
-- Project Brief for context
+- Product Brief for context
 
 **Freya will help you:**
 
@@ -52,12 +52,12 @@ Reference your B-Trigger-Map folder or summarize your personas and their primary
 ### Ask Freya to analyze your Trigger Map:
 
 **You say:**
-> "I'd like you to analyze my Trigger Map and suggest prioritized scenarios. Here's my Project Brief and Trigger Map..." (share the files)
+> "I'd like you to analyze my Trigger Map and suggest prioritized scenarios. Here's my Product Brief and Trigger Map..." (share the files)
 
 ### Freya analyzes automatically:
 
 Freya examines:
-- Your top business goals (from Project Brief)
+- Your top business goals (from Product Brief)
 - Priority personas (from Workshop 4 rankings)
 - Top driving forces per persona
 - Feature-to-driver connections
@@ -426,4 +426,6 @@ Time to visualize what the user sees at each step.
 
 ---
 
-[← Back to Lesson 2](lesson-02-mapping-the-journey.md) | [Back to Module Overview](module-08-outline-scenarios-overview.md)
+[← Back to Lesson 2](lesson-03-mapping-the-journey.md) | [Back to Module Overview](module-08-outline-scenarios-overview.md)
+
+*Part of Module 08: Outline Scenarios*

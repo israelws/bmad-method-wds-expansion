@@ -489,3 +489,5 @@ In the final lesson, we'll explore the additional strategic documents you can cr
 ---
 
 [← Back to Lesson 4](lesson-04-wds-advantage.md) | [Back to Module Overview](module-04-overview.md)
+
+*Part of Module 04: Product Brief*

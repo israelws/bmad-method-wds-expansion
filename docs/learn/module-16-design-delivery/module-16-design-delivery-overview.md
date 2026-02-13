@@ -151,6 +151,20 @@ For one completed flow:
 
 ---
 
+## Lessons
+
+### [Lesson 1: Validation and Packaging](lesson-01-validation-packaging.md)
+Ensuring everything is complete and packaging for handoff
+
+---
+
+## Tutorial
+
+### [Tutorial 16: Create Your Delivery](tutorial-16.md)
+Hands-on guide to validating specifications and packaging for handoff
+
+---
+
 ## Next Module
 
 **[Module 17: Usability Testing →](../module-17-usability-testing/module-17-usability-testing-overview.md)**

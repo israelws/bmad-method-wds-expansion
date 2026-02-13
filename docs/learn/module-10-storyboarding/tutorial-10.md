@@ -401,3 +401,5 @@ Time to document every decision in complete specifications.
 ---
 
 [← Back to Lesson 2](lesson-02-storyboard-format.md) | [Back to Module Overview](module-10-storyboarding-overview.md)
+
+*Part of Module 10: Storyboarding*

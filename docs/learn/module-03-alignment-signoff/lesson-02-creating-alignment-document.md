@@ -1,4 +1,6 @@
-# Lesson 2: Creating Your Alignment Document
+# Module 03: Alignment & Signoff
+
+## Lesson 2: Creating Your Alignment Document
 
 **The 10 sections that ensure everyone understands and agrees - AFTER you've done discovery**
 
@@ -287,3 +289,5 @@ Work through these sections **in whatever order makes sense** for your thinking:
 
 [← Back to Module Overview](module-03-overview.md)
 
+
+*Part of Module 03: Alignment & Signoff*

@@ -429,6 +429,26 @@ Freya ensures completeness:
 
 ---
 
+## Lessons
+
+### [Lesson 1: Page-Level Specifications](lesson-01-design-is-specification.md)
+Start with the big picture, then work down
+
+### [Lesson 2: Section & Widget Specifications](lesson-02-section-widget-specifications.md)
+Deep dive on Layers 2 & 3 of the hierarchy
+
+### [Lesson 3: Element & State Specifications](lesson-03-element-state-specifications.md)
+Deep dive on Layers 4 & 5 — Complete implementation details
+
+---
+
+## Tutorial
+
+### [Tutorial 11: Write Your Specifications](tutorial-11.md)
+Hands-on guide to creating complete page specifications with Freya
+
+---
+
 ## Next Module
 
 **[Module 12: Functional Components →](../module-12-functional-components/module-12-functional-components-overview.md)**

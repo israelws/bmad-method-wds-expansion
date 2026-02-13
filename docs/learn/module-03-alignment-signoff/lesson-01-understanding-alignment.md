@@ -1,4 +1,6 @@
-# Lesson 1: Understanding Alignment
+# Module 03: Alignment & Signoff
+
+## Lesson 1: Understanding Alignment
 
 **Why alignment matters before starting work - and why understanding comes first**
 
@@ -132,7 +134,7 @@ Before you can create an alignment document, you need to understand what success
 - You have full autonomy
 - You don't need stakeholder approval
 
-**Go directly to:** [Module 04: Create Project Brief](../module-04-project-brief/tutorial-04.md)
+**Go directly to:** [Module 04: Product Brief](../module-04-product-brief/module-04-overview.md)
 
 ---
 
@@ -173,3 +175,5 @@ Before you can create an alignment document, you need to understand what success
 
 [← Back to Module Overview](module-03-overview.md)
 
+
+*Part of Module 03: Alignment & Signoff*

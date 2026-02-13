@@ -327,4 +327,6 @@ In the tutorial, you'll identify Functional Components from your existing specif
 
 ---
 
-[← Back to Lesson 1](lesson-01-patterns-emerge.md) | [Back to Module Overview](module-12-functional-Functional Components-overview.md)
+[← Back to Lesson 1](lesson-01-patterns-emerge.md) | [Back to Module Overview](module-12-functional-components-overview.md)
+
+*Part of Module 12: Functional Components*

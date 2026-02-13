@@ -116,6 +116,20 @@ No design system at all. Each page is self-contained with inline styling. Best f
 
 ---
 
+## Lessons
+
+### [Lesson 1: Understanding the Four Modes](lesson-01-understanding-modes.md)
+How component management affects your workflow
+
+---
+
+## Tutorial
+
+### [Tutorial 13: Apply Your Mode](tutorial-13.md)
+Hands-on guide to working effectively in your design system mode
+
+---
+
 ## Next Module
 
 **[Module 14: Agentic Development →](../module-14-agentic-development/module-14-agentic-development-overview.md)**

@@ -102,7 +102,7 @@ She'll probe deeper where needed, ensuring nothing gets missed.
 
 `A-Product-Brief/platform-requirements.md`
 
-This document lives with your Project Brief because it's part of the strategic foundation — not a technical specification.
+This document lives with your Product Brief because it's part of the strategic foundation — not a technical specification.
 
 ---
 
@@ -155,6 +155,23 @@ Think about your current project:
 4. What feels risky?
 
 Document these before you start designing.
+
+---
+
+## Lessons
+
+### [Lesson 1: Why Boundaries Matter](lesson-01-why-boundaries-matter.md)
+Designing in reality, not fantasy
+
+### [Lesson 2: Defining Platform Requirements](lesson-02-defining-platform-requirements.md)
+How to document the boundaries that shape your design
+
+---
+
+## Tutorial
+
+### [Tutorial 05: Create Your Platform Requirements](tutorial-05.md)
+Hands-on guide to documenting technical boundaries with Saga
 
 ---
 

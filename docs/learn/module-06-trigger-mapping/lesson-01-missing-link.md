@@ -1,4 +1,6 @@
-# Lesson 1: The Missing Link
+# Module 06: Trigger Mapping
+
+## Lesson 1: The Missing Link
 
 **Why Product Brief Alone Isn't Enough**
 

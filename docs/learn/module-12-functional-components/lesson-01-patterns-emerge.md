@@ -243,3 +243,5 @@ In the next lesson, you'll learn the component anatomy in detail — how to docu
 ---
 
 [← Back to Module Overview](module-12-functional-components-overview.md)
+
+*Part of Module 12: Functional Components*

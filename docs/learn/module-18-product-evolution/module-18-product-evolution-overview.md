@@ -36,7 +36,7 @@ Here is the full WDS process and how each module maps to an evolution cycle:
 
 ### Strategy (Where does this change come from?)
 
-**Project Brief (Module 4)** — You don't write a new brief for every change. But the original brief still anchors your decisions. When someone requests a feature, check: does it align with the product's purpose? If there is no brief, write one now. It's never too late.
+**Product Brief (Module 4)** — You don't write a new brief for every change. But the original brief still anchors your decisions. When someone requests a feature, check: does it align with the product's purpose? If there is no brief, write one now. It's never too late.
 
 **Trigger Map (Module 6)** — Every change should trace to a persona, a driving force, or a business goal. If it doesn't connect, question whether it should happen. The trigger map is your filter against feature creep.
 
@@ -184,11 +184,28 @@ The discipline of changing the specification before touching code. How to read t
 
 ---
 
+## Lessons
+
+### [Lesson 1: The Evolution Cycle](lesson-01-continuous-improvement.md)
+Running WDS in miniature for every change
+
+### [Lesson 2: Update the Spec — Project the Code](lesson-02-update-spec-project-code.md)
+The specification changes first. The code follows.
+
+---
+
+## Tutorial
+
+### [Tutorial 18: Evolve Your Product](tutorial-18.md)
+Hands-on guide to running a complete evolution cycle
+
+---
+
 ## Course Complete
 
 You've learned the full WDS methodology:
 
-1. **Strategy** — Project Brief, Trigger Map, Platform Requirements
+1. **Strategy** — Product Brief, Trigger Map, Platform Requirements
 2. **Design** — Scenarios, Sketches, Storyboards, Specifications, Components, Design System
 3. **Build** — Agentic Development, Visual Design, Design Delivery
 4. **Validate** — Usability Testing

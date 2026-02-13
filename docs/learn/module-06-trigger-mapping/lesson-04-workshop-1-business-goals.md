@@ -1,4 +1,6 @@
-# Lesson 3: Workshop 1 - Business Goals
+# Module 06: Trigger Mapping
+
+## Lesson 4: Workshop 1 - Business Goals
 
 **Saga Guides You to Define What Winning Looks Like**
 
@@ -312,6 +314,6 @@ Workshop 2 identifies WHO can help you achieve these goals - your target groups.
 
 ---
 
-[← Back to Lesson 3](lesson-03-five-workshops-overview.md) | [Next: Lesson 5 - Workshop 2: Target Groups →](lesson-05-workshop-2-target-groups.md)
+[← Back to Module Overview](module-06-overview.md) | [← Back to Lesson 3](lesson-03-five-workshops-overview.md) | [Next: Lesson 5 - Workshop 2: Target Groups →](lesson-05-workshop-2-target-groups.md)
 
 *Part of Module 06: Trigger Mapping*

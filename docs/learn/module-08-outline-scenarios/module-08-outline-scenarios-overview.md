@@ -246,6 +246,26 @@ From your Trigger Map:
 
 ---
 
+## Lessons
+
+### [Lesson 1: Scenarios, Not Pages](lesson-01-design-experiences-not-screens.md)
+Why linear journeys matter more than isolated screens
+
+### [Lesson 2: From Trigger Map to Scenarios](lesson-02-from-trigger-map-to-scenarios.md)
+How to identify which scenarios to create using Value Trigger Chains
+
+### [Lesson 3: Mapping the Journey](lesson-03-mapping-the-journey.md)
+How to structure scenario outlines for clarity and action
+
+---
+
+## Tutorial
+
+### [Tutorial 08: Create Your Scenario Outlines](tutorial-08.md)
+Hands-on guide to defining user journeys with Freya
+
+---
+
 ## Next Module
 
 **[Module 09: Conceptual Sketching →](../module-09-conceptual-sketching/module-09-conceptual-sketching-overview.md)**

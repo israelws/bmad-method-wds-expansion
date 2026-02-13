@@ -375,7 +375,7 @@ Here's what a finished platform-requirements.md looks like:
 
 Because platform requirements are strategic context. They're not technical specifications — they're the boundaries that shape all design decisions.
 
-Just like the Project Brief, this document gets referenced throughout the project. When you're designing, you check it. When developers have questions, they check it. When scope discussions happen, everyone checks it.
+Just like the Product Brief, this document gets referenced throughout the project. When you're designing, you check it. When developers have questions, they check it. When scope discussions happen, everyone checks it.
 
 ---
 
@@ -407,8 +407,10 @@ In the tutorial, you'll create your own platform-requirements.md. Saga will guid
 
 ---
 
-**[Continue to Tutorial: Create Platform Requirements →](tutorial-06.md)**
+**[Continue to Tutorial: Create Platform Requirements →](tutorial-05.md)**
 
 ---
 
-[← Back to Lesson 1](lesson-01-why-boundaries-matter.md) | [Back to Module Overview](module-06-platform-requirements-overview.md)
+[← Back to Lesson 1](lesson-01-why-boundaries-matter.md) | [Back to Module Overview](module-05-platform-requirements-overview.md)
+
+*Part of Module 05: Platform Requirements*

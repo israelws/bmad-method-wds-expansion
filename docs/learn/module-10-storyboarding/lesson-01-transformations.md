@@ -388,3 +388,5 @@ In the next lesson, you'll learn specific techniques for documenting storyboards
 ---
 
 [← Back to Module Overview](module-10-storyboarding-overview.md)
+
+*Part of Module 10: Storyboarding*

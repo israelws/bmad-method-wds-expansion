@@ -1,4 +1,6 @@
-# Lesson 04: WDS Project Initialization
+# Module 02: Installation & Setup
+
+## Lesson 4: WDS Project Initialization
 
 **Add WDS, create structure, activate Mimir**
 
@@ -169,13 +171,13 @@ Projects/
 
 ## Troubleshooting
 
-**Issue:** Can't find MIMIR file → Check WDS added to workspace  
-**Issue:** Drag doesn't work → Use `@MIMIR-WDS-ORCHESTRATOR.md`  
+**Issue:** Can't find MIMIR file → Check WDS added to workspace
+**Issue:** Drag doesn't work → Use `@MIMIR-WDS-ORCHESTRATOR.md`
 **Issue:** mkdir fails → Make sure you're in your project folder
 
 ---
 
-## 🎉 Congratulations!
+## Congratulations!
 
 You've completed Module 02: Installation & Setup!
 
@@ -193,14 +195,11 @@ You've completed Module 02: Installation & Setup!
 
 ## What's Next?
 
-- **[Module 04: Create Project Brief](../../module-04-product-brief/module-04-overview.md)**
-- **[WDS Training Course](../../00-course-overview/00-course-overview.md)**
+- **[Module 03: Alignment & Signoff](../module-03-alignment-signoff/module-03-overview.md)**
+- **[WDS Training Course](../00-course-overview/00-course-overview.md)**
 - **Ask Mimir:** "What should I do next?"
-
-**Remember:** `@wds-mimir [your question]` anytime! 🌊
 
 ---
 
-*Part of Module 02: Installation & Setup*  
-*[← Back to Module Overview](../module-02-overview.md)*
-
+*Part of Module 02: Installation & Setup*
+*[← Back to Module Overview](module-02-overview.md)*

@@ -1,4 +1,6 @@
-# Lesson 7: Workshop 5 - Feature Impact
+# Module 06: Trigger Mapping
+
+## Lesson 8: Workshop 5 - Feature Impact
 
 **Saga Analyzes and Scores Your Features**
 
@@ -536,6 +538,6 @@ You're ready to create your own Trigger Map. The tutorial walks through all 5 wo
 
 ---
 
-[← Back to Lesson 7](lesson-07-workshop-4-prioritization.md) | [Next: Lesson 9 - Positive & Negative Drivers →](lesson-09-positive-negative-drivers.md)
+[← Back to Module Overview](module-06-overview.md) | [← Back to Lesson 7](lesson-07-workshop-4-prioritization.md) | [Next: Lesson 9 - Positive & Negative Drivers →](lesson-09-positive-negative-drivers.md)
 
 *Part of Module 06: Trigger Mapping*

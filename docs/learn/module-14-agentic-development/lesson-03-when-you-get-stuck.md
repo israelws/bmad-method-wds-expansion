@@ -209,3 +209,5 @@ Before the tutorial, two more practical lessons: choosing your code format and k
 ---
 
 [← Back to Lesson 2](lesson-02-documenting-decisions.md) | [Back to Module Overview](module-14-agentic-development-overview.md)
+
+*Part of Module 14: Agentic Development*

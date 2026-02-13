@@ -1,4 +1,6 @@
-# Lesson 4: Workshop 2 - Target Groups
+# Module 06: Trigger Mapping
+
+## Lesson 5: Workshop 2 - Target Groups
 
 **Saga Helps You Identify Who Ensures Your Success**
 
@@ -550,6 +552,6 @@ Workshop 3 maps the psychological drivers for each persona - both what they want
 
 ---
 
-[← Back to Lesson 4](lesson-04-workshop-1-business-goals.md) | [Next: Lesson 6 - Workshop 3: Driving Forces →](lesson-06-workshop-3-driving-forces.md)
+[← Back to Module Overview](module-06-overview.md) | [← Back to Lesson 4](lesson-04-workshop-1-business-goals.md) | [Next: Lesson 6 - Workshop 3: Driving Forces →](lesson-06-workshop-3-driving-forces.md)
 
 *Part of Module 06: Trigger Mapping*

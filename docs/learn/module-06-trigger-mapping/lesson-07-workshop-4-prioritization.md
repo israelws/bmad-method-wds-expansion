@@ -1,4 +1,6 @@
-# Lesson 6: Workshop 4 - Prioritization
+# Module 06: Trigger Mapping
+
+## Lesson 7: Workshop 4 - Prioritization
 
 **Saga Guides You to Rank What Matters Most**
 
@@ -366,6 +368,6 @@ Workshop 5 uses these priorities to systematically score features. Each feature 
 
 ---
 
-[← Back to Lesson 6](lesson-06-workshop-3-driving-forces.md) | [Next: Lesson 8 - Workshop 5: Feature Impact →](lesson-08-workshop-5-feature-impact.md)
+[← Back to Module Overview](module-06-overview.md) | [← Back to Lesson 6](lesson-06-workshop-3-driving-forces.md) | [Next: Lesson 8 - Workshop 5: Feature Impact →](lesson-08-workshop-5-feature-impact.md)
 
 *Part of Module 06: Trigger Mapping*

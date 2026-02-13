@@ -197,7 +197,7 @@ This lesson gives you the energy to start.
 
 **For the comprehensive argument** (45 reasons across 9 categories), see the model:
 
-**[Sketching Concepts by Hand Model](../../../models/whiteport-sketching-concepts-by-hand.md)**
+**[Sketching Concepts by Hand Model](../../models/whiteport-sketching-concepts-by-hand.md)**
 
 It covers:
 - Speed & Flow
@@ -246,3 +246,5 @@ So grab that pen.
 ---
 
 [← Back to Lesson 2: Sketching Techniques](lesson-02-sketching-techniques.md) | [Back to Module Overview](module-09-conceptual-sketching-overview.md)
+
+*Part of Module 09: Conceptual Sketching*

@@ -184,3 +184,5 @@ In the next lesson, you'll learn what to do when things go wrong — when the ag
 ---
 
 [← Back to Lesson 1](lesson-01-iterative-building.md) | [Back to Module Overview](module-14-agentic-development-overview.md)
+
+*Part of Module 14: Agentic Development*

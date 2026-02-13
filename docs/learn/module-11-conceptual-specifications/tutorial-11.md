@@ -468,3 +468,5 @@ Time to identify reusable patterns across your specifications.
 ---
 
 [← Back to Lesson 3](lesson-03-element-state-specifications.md) | [Back to Module Overview](module-11-conceptual-specifications-overview.md)
+
+*Part of Module 11: Conceptual Specifications*

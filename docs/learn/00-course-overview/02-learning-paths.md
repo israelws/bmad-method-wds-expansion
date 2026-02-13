@@ -16,10 +16,10 @@
 
 ### Option 2: Quick Start
 
-- Focus on core modules (Module 01, 02, 04, 06)
+- Focus on core modules (Modules 01, 02, 04, 06, 08, 11)
 - Skip advanced topics initially
 - Get started fast, learn more later
-- **Time:** 2-3 weeks, 3-4 hours total
+- **Time:** 3-4 weeks, ~6 hours total
 - **Best for:** Designers who need results quickly
 
 ### Option 3: Self-Paced
@@ -38,7 +38,7 @@
 
 By the end of this course, you'll have created:
 
-**1. Complete Project Brief**
+**1. Complete Product Brief**
 
 - Vision and goals clearly defined
 - Stakeholders and constraints documented
@@ -88,12 +88,12 @@ Each module contains:
 
 Choose your path and start learning:
 
-**[Start Module 01: Why WDS Matters →](../module-01-why-wds-matters/module-01-overview.md)**
+**[Start Module 01: Why WDS Matters â†’](../module-01-why-wds-matters/module-01-overview.md)**
 
 Or check support resources first:
 
-**[Continue to Support →](03-support.md)**
+**[Continue to Support â†’](03-support.md)**
 
 ---
 
-[← Back to Prerequisites](01-prerequisites.md) | [Next: Support →](03-support.md)
+[â† Back to Prerequisites](01-prerequisites.md) | [Next: Support â†’](03-support.md)

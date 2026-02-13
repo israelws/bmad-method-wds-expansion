@@ -80,7 +80,7 @@ Use your Trigger Map prioritization to identify scenarios:
 
 ### Step 1: Start with Top Business Goal
 
-Look at your Project Brief. What's your #1 business goal?
+Look at your Product Brief. What's your #1 business goal?
 
 Example: **BG01 - Get 5,000 active teams using the product**
 
@@ -433,11 +433,11 @@ Design core first. Add supporting scenarios as needed.
 
 ## How Freya Suggests Scenarios
 
-Freya doesn't just help you create scenarios - she **proactively suggests them** by analyzing your Project Brief and Trigger Map.
+Freya doesn't just help you create scenarios - she **proactively suggests them** by analyzing your Product Brief and Trigger Map.
 
 ### What Freya Analyzes
 
-**From your Project Brief:**
+**From your Product Brief:**
 - Top business goals (ranked by priority)
 - Success metrics
 - Critical constraints
@@ -682,3 +682,5 @@ Next lesson: **How to structure scenario outlines** — the template and format 
 ---
 
 [← Back to Lesson 1](lesson-01-design-experiences-not-screens.md) | [Back to Module Overview](module-08-outline-scenarios-overview.md)
+
+*Part of Module 08: Outline Scenarios*
