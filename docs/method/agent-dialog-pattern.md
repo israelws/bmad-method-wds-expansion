@@ -78,7 +78,26 @@ Location: `design-process/progress/agent-dialogs/{date}-{workflow-name}.md`
 
 ---
 
-## Questions & Answers
+## Plan
+
+**MANDATORY:** Real-time progress tracking with visual status indicators
+
+1. ⏳/✅/⚠️ **[Step 1]** — [Description]
+2. ⏸ **[Step 2]** — [Description]
+3. ⏸ **[Step 3]** — [Description]
+4. ⏸ **[Step 4]** — [Description]
+
+**Status Indicators:**
+- ⏳ **In Progress** — Currently working on this
+- ✅ **Complete** — Finished successfully
+- ⚠️ **Partial/Issues** — Done but with caveats or blockers
+- ⏸ **Pending** — Not started yet
+
+**CRITICAL:** Only ONE task should be "In Progress" (⏳) at a time. Update status immediately upon completion.
+
+---
+
+## Session Transcript
 
 ### [Topic/Section Name]
 **Q:** [Question text]
@@ -101,15 +120,6 @@ Location: `design-process/progress/agent-dialogs/{date}-{workflow-name}.md`
 
 ---
 
-## Progress Status
-
-- [x] Section 1: [Name]
-- [x] Section 2: [Name]
-- [ ] Section 3: [Name] (in progress)
-- [ ] Section 4: [Name]
-
----
-
 ## Generated Artifacts
 
 - [x] [file1.md] — [Brief description]
@@ -124,9 +134,32 @@ Location: `design-process/progress/agent-dialogs/{date}-{workflow-name}.md`
 
 ---
 
-## Next Steps
+## Wrap Up & Retrospective
 
-[What should happen after this workflow completes]
+**MANDATORY FINAL STEP:** Complete before marking workflow as "complete"
+
+### Success Criteria Assessment
+[Evaluate against original objectives — what was achieved?]
+
+### What Worked Well
+[List 3-6 things that went well in this session]
+
+### What Didn't Work / Issues Encountered
+[List issues, with impact and workarounds/fixes]
+
+### Process Improvements Needed
+[Gaps in the process, recommendations for future sessions]
+
+### User Feedback
+**[User: Please add your feedback here]**
+
+**Quality:** [Output quality assessment]
+**Process:** [Collaboration feel]
+**Gaps:** [What was missing]
+**Suggestions:** [What should improve]
+
+### Handoff Notes
+[Critical information for next phase/agent]
 
 ---
 
@@ -168,9 +201,12 @@ Location: `design-process/progress/agent-dialogs/{date}-{workflow-name}.md`
    "✓ Added to platform-requirements.md (Core Platform section)"
    ```
 
-3. **Update progress status**
-   - Mark sections complete as you go
-   - Update artifact list with generated files
+3. **Update progress status IN REAL-TIME** ⚠️ **CRITICAL**
+   - Update Plan section with visual status indicators (⏳/✅/⚠️/⏸)
+   - Mark tasks complete IMMEDIATELY after finishing (not batched)
+   - Only ONE task should be "In Progress" (⏳) at any time
+   - User must be able to see progress without asking
+   - For long operations (>30 seconds), provide periodic updates
 
 4. **Document decisions**
    - When a key decision is made, note it explicitly
@@ -178,12 +214,20 @@ Location: `design-process/progress/agent-dialogs/{date}-{workflow-name}.md`
 
 ### On Workflow Complete
 
-1. **Update dialog status**
+1. **Complete retrospective section** ⚠️ **MANDATORY**
+   - Assess success criteria
+   - Document what worked well (3-6 items)
+   - Document issues encountered with fixes/learnings
+   - Identify process improvement needs
+   - Leave space for user feedback
+   - Write handoff notes for next phase
+
+2. **Update dialog status**
    - Status: `complete`
    - Last Updated: timestamp
-   - Summary of key outcomes
+   - All Plan items marked ✅ or ⚠️
 
-2. **Link from design-log.md**
+3. **Link from design-log.md**
    ```markdown
    ## 2026-02-11 - Phase 1 Complete
 
@@ -192,7 +236,7 @@ Location: `design-process/progress/agent-dialogs/{date}-{workflow-name}.md`
    **Full details:** See [agent dialog](./agent-dialogs/2026-02-11-phase-1-discovery.md)
    ```
 
-3. **Update project outline**
+4. **Update project outline**
    - Mark phase complete
    - List generated artifacts
    - Reference agent dialog
@@ -286,10 +330,18 @@ design-process/progress/
 For any workflow implementation:
 
 - [ ] Create agent dialog on workflow start
+- [ ] Create Plan section with visual status indicators (⏳/✅/⚠️/⏸)
 - [ ] Log all questions and answers
 - [ ] Note which documents each answer populates
-- [ ] Track progress status
+- [ ] **Update progress status in REAL-TIME** (not batched)
+- [ ] Only ONE task marked ⏳ at any time
 - [ ] Document key decisions with reasoning
+- [ ] **Complete retrospective before marking workflow complete**
+  - [ ] Assess success criteria
+  - [ ] Document what worked well
+  - [ ] Document issues and learnings
+  - [ ] Identify process improvements
+  - [ ] Write handoff notes
 - [ ] Update status on completion/pause
 - [ ] Link from design-log.md
 - [ ] Update project outline

@@ -1,0 +1,67 @@
+---
+name: scenarios
+description: "Create UX scenarios from Trigger Map using Dialog, Suggest, or Dream modes"
+author: "Whiteport Design Studio"
+phase: 3
+web_bundle: true
+standalone: true
+primary_agent: "freya-ux"
+
+# Context-aware initiation based on Trigger Map Initiation Pattern
+# Checks project state, resumes from unfinished dialogs, adapts mode to project complexity
+
+# Critical variables from config
+config_source: "{project-root}/{bmad_folder}/wds/config.yaml"
+output_folder: "{config_source}:output_folder"
+user_name: "{config_source}:user_name"
+project_name: "{config_source}:project_name"
+communication_language: "{config_source}:communication_language"
+document_output_language: "{config_source}:document_output_language"
+date: system-generated
+
+# Workflow components
+installed_path: "{project-root}/{bmad_folder}/wds/workflows/3-scenarios"
+instructions: "{installed_path}/instructions.md"
+
+# Pattern references
+patterns:
+  trigger_map_initiation: "{project-root}/{bmad_folder}/wds/docs/method/trigger-map-initiation.md"
+  scenario_conversation: "{project-root}/{bmad_folder}/wds/docs/method/scenario-conversation-pattern.md"
+
+# Prerequisites check
+prerequisites:
+  - phase: 1
+    artifact: "{output_folder}/A-Product-Brief/product-brief.md"
+    required: true
+  - phase: 2
+    artifact: "{output_folder}/B-Trigger-Map/trigger-map.md"
+    required: true
+
+# Agent behavior modes
+conversation_modes:
+  dialog:
+    description: "Collaborative discovery for large products needing strategic scoping"
+    trigger: "Product scale > 100 pages OR strategic clarity needed"
+    opening: "What's the most important flow for this type of product?"
+  suggest:
+    description: "Propose scenario structure, await approval before documenting"
+    trigger: "Medium complexity, clear structure but needs validation"
+    opening: "Based on your Trigger Map, I'm imagining [N] scenarios..."
+  dream:
+    description: "Autonomous execution, present result for review"
+    trigger: "Simple/obvious structure, pattern clear from Trigger Map"
+    opening: "I've created [N] scenarios covering [summary]..."
+
+# Templates
+templates:
+  scenario_screen_flow: "{installed_path}/templates/scenario-screen-flow.template.md"
+  scenario_storyboard: "{installed_path}/templates/scenario-storyboard.template.md"
+  scenario_overview: "{installed_path}/templates/scenario-overview.template.md"
+
+# Output configuration
+output_folder_name: "C-UX-Scenarios"
+output_files:
+  - "00-scenario-overview.md"
+  - "01-[Scenario-Name]/"
+  - "agent-dialogs/"
+---

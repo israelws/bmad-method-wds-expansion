@@ -48,6 +48,10 @@ agent:
       workflow: "{project-root}/{bmad_folder}/wds/workflows/2-trigger-mapping/workflow.yaml"
       description: "[TM] Trigger Mapping: Create trigger map with user psychology and business goals (Phase 2)"
 
+    - trigger: SC or fuzzy match on scenarios
+      workflow: "{project-root}/{bmad_folder}/wds/workflows/3-scenarios/workflow.yaml"
+      description: "[SC] Scenarios: Create UX scenarios from Trigger Map using Dialog/Suggest/Dream modes (Phase 3)"
+
     - trigger: BP or fuzzy match on brainstorm-project
       exec: "{project-root}/{bmad_folder}/core/workflows/brainstorming/workflow.md"
       description: "[BP] Brainstorm Project: Guided brainstorming session to explore project vision and goals"
