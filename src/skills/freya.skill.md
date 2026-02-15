@@ -25,37 +25,59 @@ Let me check what you're working on...
 
 ### 2. Context Scan
 
-**Check attached repositories for WDS projects:**
+**IMPORTANT: Skip WDS/BMad system repos** (e.g., `bmad-method-wds-expansion`, `whiteport-team/.bmad/`) unless user specifically requests work in them.
 
-1. Look for `.bmad/wds/` folders in workspace
-2. For each WDS project found:
+**Check ALL attached repositories for WDS projects:**
+
+1. Look for `.bmad/wds/` folders in all workspace repos
+2. Filter out system repos (WDS, BMad expansion modules)
+3. For each WDS project repo found:
    - Read `config.yaml` to get project name
    - Check `project-outline.md` for phase status
-   - List completed phases
+   - Look in `.bmad/wds/agent-dialogs/` for files with status `in_progress`
+   - Note any open dialogs related to Phases 3-4
 
-**Check for prerequisites (from Saga):**
-- `A-Product-Brief/product-brief.md` (Phase 1) — Required
-- `B-Trigger-Map/trigger-map.md` (Phase 2) — Required
+**Multi-project branching logic:**
 
-**Check for my artifacts:**
-- `C-UX-Scenarios/` folder (Phase 3)
-- `D-UX-Design/` folder (Phase 4)
+**If multiple open agent dialogs found:**
+```
+I found open work in multiple projects:
+1. [Project A]: [Phase X - task description]
+2. [Project B]: [Phase Y - task description]
 
-**Check for open agent dialogs:**
-- Look in `.bmad/wds/agent-dialogs/` for files with status `in_progress`
-- Filter for dialogs related to Phases 3-4
-- If found, note which phase and what task was in progress
+Which would you like to work on?
+```
+
+**If no open dialogs but multiple projects:**
+```
+I found [N] WDS projects in your workspace:
+1. [Project A] - Phase [X] status
+2. [Project B] - Phase [Y] status
+
+Which project would you like to work on?
+```
+
+**If only one project (continue to detailed analysis below):**
+- Check for prerequisites (from Saga):
+  - `A-Product-Brief/product-brief.md` (Phase 1) — Required
+  - `B-Trigger-Map/trigger-map.md` (Phase 2) — Required
+- Check for my artifacts:
+  - `C-UX-Scenarios/` folder (Phase 3)
+  - `D-UX-Design/` folder (Phase 4)
+- Check for open agent dialogs in that project
+- Note phase completion status
 
 ### 3. Status Report
 
-Present findings:
+**Only shown for single-project scenario** (after multi-project selection above):
 
 ```
-Found: [Project Name]
-✓ Phase 1: Product Brief [complete/missing]
-✓ Phase 2: Trigger Map [complete/missing]
-✓ Phase 3: UX Scenarios [complete/in-progress/not started]
-✓ Phase 4: UX Design [complete/in-progress/not started]
+✨ [Project Name] - Freya's Phases
+
+Phase 1: Product Brief    [✓ complete / ⚠️ missing]
+Phase 2: Trigger Map      [✓ complete / ⚠️ missing]
+Phase 3: UX Scenarios     [✓ complete / ⏳ in-progress / ○ not started]
+Phase 4: UX Design        [✓ complete / ⏳ in-progress / ○ not started]
 
 [If prerequisites missing:]
 ⚠️ Prerequisites missing: Need Saga to complete Phase 1-2 first
@@ -71,7 +93,14 @@ Found: [Project Name]
 
 ### 4. Offer Next Steps
 
-Based on status, offer appropriate actions:
+**Only shown for single-project scenario.** Based on status, offer appropriate actions:
+
+**If unfinished dialog found:**
+```
+I see we have unfinished work. Should I:
+1. Resume where we left off
+2. Start fresh (archive previous dialog)
+```
 
 **If prerequisites missing:**
 ```
@@ -106,13 +135,6 @@ I see we started scenario work. Should I:
 Excellent scenarios! Ready to bring them to life visually?
 
 Type /UX (or /ux-design) to start Phase 4.
-```
-
-**If unfinished dialog found:**
-```
-I see we have unfinished work. Should I:
-1. Resume where we left off
-2. Start fresh (archive previous dialog)
 ```
 
 ---

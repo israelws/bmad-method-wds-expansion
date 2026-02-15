@@ -26,33 +26,57 @@ Let me check your project status...
 
 ### 2. Context Scan
 
-**Check attached repositories for WDS projects:**
+**IMPORTANT: Skip WDS/BMad system repos** (e.g., `bmad-method-wds-expansion`, `whiteport-team/.bmad/`) unless user specifically requests work in them.
 
-1. Look for `.bmad/wds/` folders in workspace
-2. For each WDS project found:
+**Check ALL attached repositories for WDS projects:**
+
+1. Look for `.bmad/wds/` folders in all workspace repos
+2. Filter out system repos (WDS, BMad expansion modules)
+3. For each WDS project repo found:
    - Read `config.yaml` to get project name
    - Check `project-outline.md` for complete phase status
-   - List all completed/in-progress/pending phases
+   - Look in `.bmad/wds/agent-dialogs/` for files with status `in_progress`
+   - Note any open dialogs across ALL phases
 
-**Check for all artifacts across phases:**
-- Phase 1: `A-Product-Brief/product-brief.md`
-- Phase 2: `B-Trigger-Map/trigger-map.md`
-- Phase 3: `C-UX-Scenarios/` folder
-- Phase 4: `D-UX-Design/` folder
-- Phase 5: `E-Platform-Requirements/` folder
-- Phase 6: `F-Design-System/` folder
+**Multi-project branching logic:**
 
-**Check for open agent dialogs (all phases):**
-- Look in `.bmad/wds/agent-dialogs/` for files with status `in_progress`
-- Note ALL unfinished work across all phases
+**If multiple open agent dialogs found:**
+```
+I found open work in multiple projects:
+1. [Project A]: [Phase X - task description]
+2. [Project B]: [Phase Y - task description]
+3. [Project C]: [Phase Z - task description]
+
+Which would you like to work on?
+```
+
+**If no open dialogs but multiple projects:**
+```
+I found [N] WDS projects in your workspace:
+1. [Project A] - Latest phase: [X], Status: [...]
+2. [Project B] - Latest phase: [Y], Status: [...]
+
+Which project would you like to work on?
+```
+
+**If only one project (continue to detailed analysis below):**
+- Check for all artifacts across phases:
+  - Phase 1: `A-Product-Brief/product-brief.md`
+  - Phase 2: `B-Trigger-Map/trigger-map.md`
+  - Phase 3: `C-UX-Scenarios/` folder
+  - Phase 4: `D-UX-Design/` folder
+  - Phase 5: `E-Platform-Requirements/` folder
+  - Phase 6: `F-Design-System/` folder
+- Check for open agent dialogs in that project
 - Identify blockers or dependencies
+- List all completed/in-progress/pending phases
 
 ### 3. Status Report
 
-Present comprehensive findings:
+**Only shown for single-project scenario** (after multi-project selection above):
 
 ```
-📊 Project Status: [Project Name]
+🌳 [Project Name] - Complete Project Status
 
 Phase 1: Product Brief       [✓ complete / ⏳ in-progress / ○ not started]
 Phase 2: Trigger Map          [✓ complete / ⏳ in-progress / ○ not started]
@@ -73,7 +97,15 @@ Phase 6: Design System        [✓ complete / ⏳ in-progress / ○ not started]
 
 ### 4. Offer Next Steps
 
-Based on status, offer appropriate actions:
+**Only shown for single-project scenario.** Based on status, offer appropriate actions:
+
+**If unfinished work found (any phase):**
+```
+I see we have work in progress. Should I:
+1. Resume unfinished phase: [Phase X - task description]
+2. Continue to next phase: [Phase Y]
+3. Review completed work
+```
 
 **If project just starting:**
 ```
@@ -85,14 +117,6 @@ Recommended path:
 3. /idunn → Platform Requirements + Design System (technical specs)
 
 Ready to begin? Type /saga to start.
-```
-
-**If mid-project with unfinished work:**
-```
-I see we have work in progress. Should I:
-1. Resume unfinished phase: [Phase X]
-2. Continue to next phase: [Phase Y]
-3. Review completed work
 ```
 
 **If Phases 1-4 complete, my phases not started:**
